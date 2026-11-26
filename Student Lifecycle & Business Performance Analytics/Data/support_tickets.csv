@@ -1,0 +1,401 @@
+ticket_id,student_id,created_at,resolved_at,priority,ticket_category,ticket_status
+1,984,2025-06-02 10:00:00,,Medium,Course Content,Open
+2,554,2024-05-28 10:00:00,,Critical,Placement,Open
+3,752,2025-03-10 10:00:00,2025-03-12 16:00:00,Critical,Placement,Open
+4,322,2025-01-26 10:00:00,,Medium,Mentorship,Closed
+5,39,2024-12-25 10:00:00,2024-12-27 16:00:00,Critical,Mentorship,In Progress
+6,115,2025-06-06 10:00:00,2025-06-18 16:00:00,Low,Mentorship,Resolved
+7,824,2025-10-02 10:00:00,,Medium,Payment,In Progress
+8,155,2025-08-19 10:00:00,2025-08-26 16:00:00,Low,Placement,Resolved
+9,152,2024-11-11 10:00:00,,Critical,Payment,Resolved
+10,568,2025-09-30 10:00:00,2025-10-09 16:00:00,Critical,LMS Access,Resolved
+11,16,2025-12-15 10:00:00,,Low,Mentorship,Closed
+12,285,2025-07-03 10:00:00,2025-07-14 16:00:00,Medium,Mentorship,Resolved
+13,999,2024-08-22 10:00:00,2024-08-24 16:00:00,Critical,Mentorship,Resolved
+14,531,2025-12-13 10:00:00,2025-12-24 16:00:00,Medium,Mentorship,Closed
+15,281,2025-04-05 10:00:00,2025-04-05 16:00:00,Medium,Payment,Closed
+16,939,2025-06-22 10:00:00,2025-07-02 16:00:00,Medium,Mentorship,Open
+17,269,2025-05-01 10:00:00,2025-05-11 16:00:00,Medium,Mentorship,Resolved
+18,633,2025-05-27 10:00:00,2025-06-02 16:00:00,Medium,LMS Access,In Progress
+19,256,2025-04-19 10:00:00,2025-05-01 16:00:00,Medium,LMS Access,In Progress
+20,316,2024-05-10 10:00:00,2024-05-10 16:00:00,Low,Payment,Closed
+21,437,2025-05-03 10:00:00,2025-05-05 16:00:00,High,Course Content,Closed
+22,279,2025-06-30 10:00:00,2025-07-08 16:00:00,Low,LMS Access,Resolved
+23,37,2024-10-26 10:00:00,2024-11-04 16:00:00,Critical,Course Content,In Progress
+24,553,2025-12-12 10:00:00,2025-12-22 16:00:00,Medium,LMS Access,In Progress
+25,990,2025-05-14 10:00:00,,Low,Mentorship,Open
+26,346,2025-06-18 10:00:00,2025-06-19 16:00:00,Critical,Payment,Open
+27,406,2025-05-11 10:00:00,2025-05-21 16:00:00,Low,Mentorship,Open
+28,116,2025-02-09 10:00:00,2025-02-15 16:00:00,Critical,Payment,In Progress
+29,275,2025-04-09 10:00:00,2025-04-13 16:00:00,High,LMS Access,Closed
+30,233,2024-11-01 10:00:00,2024-11-09 16:00:00,Low,Mentorship,Resolved
+31,876,2024-12-19 10:00:00,2024-12-21 16:00:00,Low,Mentorship,In Progress
+32,259,2025-04-25 10:00:00,2025-04-26 16:00:00,Low,Payment,Open
+33,608,2024-12-05 10:00:00,2024-12-07 16:00:00,Medium,Course Content,Open
+34,722,2025-08-31 10:00:00,2025-09-01 16:00:00,Medium,LMS Access,Open
+35,18,2025-01-28 10:00:00,2025-02-04 16:00:00,Low,Payment,Open
+36,14,2024-06-07 10:00:00,2024-06-12 16:00:00,Medium,LMS Access,Open
+37,710,2025-03-30 10:00:00,,Medium,Payment,In Progress
+38,889,2024-08-29 10:00:00,2024-09-01 16:00:00,High,Placement,In Progress
+39,610,2025-06-06 10:00:00,,Low,LMS Access,Open
+40,125,2025-05-06 10:00:00,2025-05-14 16:00:00,High,Placement,Open
+41,351,2025-12-25 10:00:00,2026-01-01 16:00:00,High,Course Content,Resolved
+42,924,2026-01-03 10:00:00,2026-01-04 16:00:00,Critical,Placement,Closed
+43,509,2024-11-05 10:00:00,2024-11-17 16:00:00,Critical,Course Content,Open
+44,312,2024-03-17 10:00:00,2024-03-29 16:00:00,Medium,Placement,Open
+45,380,2025-12-02 10:00:00,2025-12-08 16:00:00,High,Mentorship,Closed
+46,420,2024-05-28 10:00:00,2024-06-04 16:00:00,Low,Mentorship,Closed
+47,953,2024-11-15 10:00:00,,Critical,Course Content,In Progress
+48,584,2024-06-06 10:00:00,2024-06-08 16:00:00,Critical,Placement,Open
+49,836,2024-11-21 10:00:00,2024-11-27 16:00:00,Medium,Payment,In Progress
+50,375,2024-10-28 10:00:00,2024-10-31 16:00:00,Medium,LMS Access,Resolved
+51,710,2025-05-28 10:00:00,2025-06-07 16:00:00,Medium,Payment,In Progress
+52,533,2024-10-05 10:00:00,2024-10-16 16:00:00,High,LMS Access,Resolved
+53,999,2025-01-04 10:00:00,2025-01-04 16:00:00,Critical,LMS Access,Resolved
+54,570,2025-09-06 10:00:00,2025-09-09 16:00:00,Medium,LMS Access,Closed
+55,313,2025-04-06 10:00:00,2025-04-10 16:00:00,High,Placement,Resolved
+56,274,2025-04-01 10:00:00,2025-04-08 16:00:00,Medium,Placement,Closed
+57,460,2025-01-17 10:00:00,2025-01-22 16:00:00,High,Payment,Closed
+58,51,2024-11-06 10:00:00,2024-11-18 16:00:00,Low,Course Content,In Progress
+59,417,2024-06-25 10:00:00,2024-07-06 16:00:00,Medium,Payment,Closed
+60,384,2025-06-12 10:00:00,,Medium,LMS Access,Closed
+61,15,2025-03-21 10:00:00,2025-03-29 16:00:00,High,Payment,Open
+62,390,2024-07-14 10:00:00,2024-07-26 16:00:00,Low,Placement,Resolved
+63,28,2025-05-04 10:00:00,,Critical,LMS Access,Closed
+64,327,2025-04-05 10:00:00,2025-04-17 16:00:00,High,Mentorship,Resolved
+65,911,2024-05-06 10:00:00,2024-05-17 16:00:00,Low,Course Content,Resolved
+66,451,2025-04-23 10:00:00,2025-05-05 16:00:00,Low,Payment,Open
+67,242,2024-10-23 10:00:00,2024-11-01 16:00:00,Critical,Course Content,Closed
+68,878,2025-04-27 10:00:00,2025-05-05 16:00:00,Medium,Mentorship,In Progress
+69,690,2025-07-02 10:00:00,2025-07-13 16:00:00,Low,Mentorship,In Progress
+70,345,2025-01-22 10:00:00,2025-01-31 16:00:00,Low,Mentorship,In Progress
+71,488,2024-04-15 10:00:00,2024-04-15 16:00:00,Medium,Course Content,Open
+72,605,2024-11-17 10:00:00,2024-11-28 16:00:00,Medium,Placement,Resolved
+73,943,2024-09-17 10:00:00,2024-09-29 16:00:00,Medium,Mentorship,Resolved
+74,250,2025-05-14 10:00:00,2025-05-14 16:00:00,High,LMS Access,Resolved
+75,75,2025-12-09 10:00:00,2025-12-20 16:00:00,Medium,Course Content,In Progress
+76,309,2024-06-14 10:00:00,2024-06-16 16:00:00,Low,Placement,Open
+77,347,2024-11-04 10:00:00,,Medium,Course Content,Closed
+78,335,2025-11-14 10:00:00,2025-11-24 16:00:00,Medium,Placement,Open
+79,893,2024-09-15 10:00:00,2024-09-16 16:00:00,Medium,Placement,Open
+80,431,2025-01-01 10:00:00,2025-01-03 16:00:00,Medium,Placement,In Progress
+81,565,2024-10-28 10:00:00,2024-11-01 16:00:00,High,LMS Access,Closed
+82,169,2024-12-03 10:00:00,2024-12-12 16:00:00,Critical,LMS Access,In Progress
+83,153,2024-07-26 10:00:00,2024-07-29 16:00:00,High,Course Content,Open
+84,424,2025-01-16 10:00:00,,Low,Mentorship,In Progress
+85,501,2025-09-27 10:00:00,2025-09-27 16:00:00,Medium,Placement,Closed
+86,758,2024-03-29 10:00:00,2024-03-29 16:00:00,High,Course Content,Closed
+87,885,2025-07-17 10:00:00,2025-07-21 16:00:00,Critical,LMS Access,In Progress
+88,693,2024-05-25 10:00:00,2024-06-02 16:00:00,Medium,LMS Access,Resolved
+89,441,2024-08-06 10:00:00,2024-08-17 16:00:00,Medium,Course Content,In Progress
+90,170,2025-02-05 10:00:00,2025-02-07 16:00:00,High,Mentorship,Open
+91,195,2024-07-21 10:00:00,2024-07-30 16:00:00,Critical,Payment,Closed
+92,236,2024-09-26 10:00:00,,Medium,Payment,Closed
+93,240,2024-08-17 10:00:00,2024-08-24 16:00:00,Critical,Placement,Resolved
+94,410,2025-03-27 10:00:00,2025-03-30 16:00:00,High,Payment,Closed
+95,529,2025-03-09 10:00:00,2025-03-10 16:00:00,Medium,Payment,Open
+96,701,2024-08-13 10:00:00,2024-08-16 16:00:00,Low,LMS Access,Closed
+97,450,2024-10-08 10:00:00,2024-10-11 16:00:00,High,Payment,Closed
+98,356,2025-08-29 10:00:00,2025-09-02 16:00:00,Medium,LMS Access,Open
+99,213,2024-12-21 10:00:00,2024-12-22 16:00:00,Medium,LMS Access,Resolved
+100,690,2025-06-17 10:00:00,2025-06-17 16:00:00,Medium,Payment,Resolved
+101,613,2025-04-28 10:00:00,2025-05-02 16:00:00,Medium,Payment,In Progress
+102,691,2025-03-12 10:00:00,2025-03-15 16:00:00,Low,Placement,Open
+103,15,2025-05-18 10:00:00,2025-05-23 16:00:00,High,LMS Access,Closed
+104,533,2024-06-20 10:00:00,2024-06-24 16:00:00,Low,LMS Access,In Progress
+105,443,2024-09-01 10:00:00,2024-09-02 16:00:00,Critical,Payment,Open
+106,535,2025-08-30 10:00:00,2025-09-10 16:00:00,Low,Placement,Closed
+107,729,2025-04-18 10:00:00,2025-04-30 16:00:00,Medium,Placement,In Progress
+108,363,2025-04-15 10:00:00,2025-04-24 16:00:00,Critical,Payment,In Progress
+109,145,2024-04-12 10:00:00,,High,Placement,Open
+110,523,2026-03-11 10:00:00,2026-03-18 16:00:00,High,Placement,Open
+111,736,2025-10-16 10:00:00,2025-10-18 16:00:00,Low,LMS Access,Open
+112,146,2025-04-29 10:00:00,2025-05-02 16:00:00,Critical,Course Content,Closed
+113,337,2025-08-13 10:00:00,2025-08-22 16:00:00,Low,Payment,Open
+114,230,2025-07-29 10:00:00,,Medium,Mentorship,In Progress
+115,635,2025-09-29 10:00:00,2025-10-05 16:00:00,Medium,LMS Access,Resolved
+116,886,2025-02-21 10:00:00,2025-02-27 16:00:00,Medium,Course Content,Resolved
+117,710,2025-03-27 10:00:00,,High,Placement,Resolved
+118,208,2025-03-15 10:00:00,2025-03-22 16:00:00,Critical,Mentorship,In Progress
+119,255,2024-11-09 10:00:00,2024-11-18 16:00:00,Critical,Payment,Resolved
+120,793,2025-03-29 10:00:00,2025-04-04 16:00:00,Critical,Mentorship,Open
+121,35,2025-06-11 10:00:00,2025-06-14 16:00:00,Medium,Course Content,In Progress
+122,117,2024-09-10 10:00:00,2024-09-18 16:00:00,Medium,Mentorship,Open
+123,174,2024-11-25 10:00:00,2024-12-04 16:00:00,Medium,LMS Access,Open
+124,271,2025-04-08 10:00:00,2025-04-15 16:00:00,High,LMS Access,In Progress
+125,240,2024-10-20 10:00:00,2024-10-30 16:00:00,High,Payment,Closed
+126,918,2025-10-07 10:00:00,2025-10-19 16:00:00,Low,Mentorship,Closed
+127,523,2025-11-11 10:00:00,,High,LMS Access,Open
+128,323,2025-04-22 10:00:00,2025-04-30 16:00:00,High,Placement,In Progress
+129,951,2025-02-28 10:00:00,2025-03-02 16:00:00,High,LMS Access,Closed
+130,314,2025-03-21 10:00:00,,Medium,LMS Access,Resolved
+131,516,2025-12-05 10:00:00,2025-12-09 16:00:00,Low,Course Content,Open
+132,410,2025-02-23 10:00:00,2025-02-23 16:00:00,Medium,Placement,Open
+133,93,2025-04-09 10:00:00,2025-04-13 16:00:00,Medium,Course Content,Resolved
+134,237,2025-02-11 10:00:00,2025-02-14 16:00:00,Critical,Placement,In Progress
+135,213,2025-05-02 10:00:00,,Low,Placement,Resolved
+136,597,2025-07-13 10:00:00,2025-07-19 16:00:00,Low,Course Content,Resolved
+137,442,2025-02-27 10:00:00,2025-03-09 16:00:00,Medium,Placement,Resolved
+138,73,2025-07-07 10:00:00,2025-07-08 16:00:00,Low,Payment,In Progress
+139,877,2025-10-10 10:00:00,2025-10-16 16:00:00,Critical,Mentorship,Open
+140,938,2025-07-09 10:00:00,2025-07-10 16:00:00,Critical,Placement,In Progress
+141,263,2026-02-03 10:00:00,2026-02-08 16:00:00,Low,Course Content,Open
+142,568,2025-01-26 10:00:00,2025-01-30 16:00:00,Medium,Placement,In Progress
+143,545,2025-03-29 10:00:00,2025-03-31 16:00:00,Critical,Placement,Open
+144,497,2025-05-13 10:00:00,2025-05-14 16:00:00,Critical,Payment,Resolved
+145,123,2025-03-15 10:00:00,2025-03-25 16:00:00,High,Course Content,Closed
+146,218,2025-12-02 10:00:00,,High,Course Content,In Progress
+147,192,2026-01-09 10:00:00,2026-01-18 16:00:00,Low,Mentorship,Closed
+148,545,2025-10-28 10:00:00,2025-10-31 16:00:00,Low,LMS Access,Resolved
+149,798,2025-06-09 10:00:00,2025-06-21 16:00:00,High,Placement,Resolved
+150,4,2025-09-20 10:00:00,,High,Payment,Open
+151,203,2025-09-27 10:00:00,2025-10-02 16:00:00,Critical,Mentorship,Closed
+152,571,2024-07-04 10:00:00,2024-07-12 16:00:00,High,Course Content,Open
+153,537,2025-04-18 10:00:00,2025-04-30 16:00:00,Medium,LMS Access,Open
+154,955,2025-03-31 10:00:00,2025-04-06 16:00:00,High,Payment,Resolved
+155,201,2024-08-26 10:00:00,2024-08-26 16:00:00,Critical,Payment,Resolved
+156,724,2025-09-03 10:00:00,2025-09-13 16:00:00,Low,Course Content,Open
+157,907,2025-09-08 10:00:00,2025-09-14 16:00:00,Critical,Mentorship,Closed
+158,894,2025-01-08 10:00:00,2025-01-10 16:00:00,High,Course Content,Closed
+159,145,2024-06-04 10:00:00,,Medium,Placement,Closed
+160,799,2026-02-28 10:00:00,2026-03-12 16:00:00,Critical,Mentorship,Resolved
+161,8,2024-09-01 10:00:00,2024-09-01 16:00:00,Medium,Payment,Closed
+162,404,2025-06-04 10:00:00,,Low,Course Content,Closed
+163,928,2024-05-06 10:00:00,2024-05-08 16:00:00,Low,Course Content,Closed
+164,204,2025-01-08 10:00:00,2025-01-15 16:00:00,Critical,Placement,Open
+165,529,2025-01-30 10:00:00,2025-02-03 16:00:00,High,Placement,Resolved
+166,479,2025-04-17 10:00:00,2025-04-29 16:00:00,Medium,Placement,In Progress
+167,800,2025-01-07 10:00:00,2025-01-13 16:00:00,High,Payment,In Progress
+168,634,2024-12-05 10:00:00,2024-12-14 16:00:00,Medium,Course Content,Resolved
+169,140,2025-03-13 10:00:00,2025-03-19 16:00:00,High,LMS Access,Closed
+170,416,2024-09-29 10:00:00,2024-10-02 16:00:00,Medium,Payment,Resolved
+171,577,2024-11-05 10:00:00,2024-11-06 16:00:00,Critical,Course Content,Resolved
+172,690,2025-02-08 10:00:00,2025-02-10 16:00:00,Low,Payment,Open
+173,593,2025-06-15 10:00:00,2025-06-24 16:00:00,Medium,Payment,Open
+174,436,2025-01-13 10:00:00,2025-01-18 16:00:00,Medium,Course Content,In Progress
+175,484,2024-04-12 10:00:00,2024-04-14 16:00:00,Critical,Placement,Resolved
+176,272,2025-10-04 10:00:00,2025-10-11 16:00:00,High,Course Content,Open
+177,233,2025-02-02 10:00:00,,Low,Placement,In Progress
+178,350,2025-09-13 10:00:00,2025-09-20 16:00:00,Medium,Placement,Closed
+179,408,2024-10-05 10:00:00,2024-10-10 16:00:00,Medium,Placement,Open
+180,715,2024-05-21 10:00:00,,Medium,Course Content,Resolved
+181,240,2024-09-06 10:00:00,2024-09-07 16:00:00,Low,Payment,Resolved
+182,554,2026-01-11 10:00:00,2026-01-22 16:00:00,Critical,Mentorship,Closed
+183,634,2024-08-20 10:00:00,2024-09-01 16:00:00,Medium,Course Content,Closed
+184,999,2024-08-27 10:00:00,2024-08-29 16:00:00,Critical,Payment,Resolved
+185,502,2025-07-30 10:00:00,,Low,LMS Access,In Progress
+186,564,2024-07-27 10:00:00,2024-08-03 16:00:00,Medium,Placement,In Progress
+187,704,2024-08-19 10:00:00,2024-08-28 16:00:00,Critical,LMS Access,Resolved
+188,785,2024-07-26 10:00:00,,Medium,Mentorship,Open
+189,610,2025-04-19 10:00:00,2025-04-22 16:00:00,Medium,Placement,In Progress
+190,106,2024-12-14 10:00:00,2024-12-21 16:00:00,Low,Course Content,Resolved
+191,193,2024-05-26 10:00:00,2024-05-31 16:00:00,High,Mentorship,Closed
+192,874,2024-03-30 10:00:00,2024-04-03 16:00:00,Medium,LMS Access,In Progress
+193,532,2024-05-20 10:00:00,2024-05-25 16:00:00,High,Placement,In Progress
+194,936,2025-06-21 10:00:00,2025-06-21 16:00:00,Low,Placement,Open
+195,877,2025-12-08 10:00:00,2025-12-16 16:00:00,Medium,Payment,In Progress
+196,771,2025-09-23 10:00:00,2025-09-27 16:00:00,Critical,Payment,Closed
+197,671,2025-12-03 10:00:00,2025-12-14 16:00:00,Critical,Course Content,Resolved
+198,84,2024-09-26 10:00:00,2024-09-29 16:00:00,Medium,Course Content,Resolved
+199,813,2024-12-29 10:00:00,2025-01-02 16:00:00,Medium,Placement,Resolved
+200,547,2024-07-26 10:00:00,2024-07-30 16:00:00,High,Payment,Open
+201,269,2025-05-12 10:00:00,2025-05-17 16:00:00,Low,Mentorship,Resolved
+202,170,2025-06-19 10:00:00,2025-06-26 16:00:00,Low,LMS Access,Open
+203,483,2025-06-18 10:00:00,,Low,Payment,In Progress
+204,716,2024-05-01 10:00:00,2024-05-12 16:00:00,Medium,Mentorship,Resolved
+205,997,2025-05-17 10:00:00,2025-05-22 16:00:00,Low,Placement,In Progress
+206,343,2025-11-30 10:00:00,2025-12-08 16:00:00,Low,LMS Access,Open
+207,748,2024-09-23 10:00:00,2024-10-02 16:00:00,Critical,Placement,Closed
+208,455,2024-07-03 10:00:00,2024-07-03 16:00:00,High,LMS Access,Closed
+209,739,2024-11-27 10:00:00,2024-12-04 16:00:00,Critical,Mentorship,Open
+210,495,2025-01-23 10:00:00,2025-02-03 16:00:00,High,Payment,In Progress
+211,408,2024-10-01 10:00:00,2024-10-08 16:00:00,Critical,Mentorship,Closed
+212,191,2024-12-11 10:00:00,2024-12-16 16:00:00,Medium,Course Content,Open
+213,181,2025-08-29 10:00:00,,Medium,Placement,In Progress
+214,999,2024-10-10 10:00:00,2024-10-12 16:00:00,Low,Payment,Open
+215,723,2024-08-07 10:00:00,2024-08-13 16:00:00,High,LMS Access,Resolved
+216,999,2024-10-28 10:00:00,2024-11-04 16:00:00,High,Payment,In Progress
+217,408,2024-07-24 10:00:00,2024-07-27 16:00:00,Low,Mentorship,In Progress
+218,792,2024-10-27 10:00:00,2024-10-30 16:00:00,Medium,Course Content,Resolved
+219,140,2025-01-14 10:00:00,2025-01-14 16:00:00,Low,Payment,Closed
+220,148,2024-06-15 10:00:00,2024-06-23 16:00:00,Medium,Mentorship,In Progress
+221,600,2025-01-27 10:00:00,2025-02-01 16:00:00,High,LMS Access,Closed
+222,910,2024-10-29 10:00:00,2024-10-31 16:00:00,Low,Mentorship,Closed
+223,497,2025-06-30 10:00:00,2025-07-01 16:00:00,Critical,Payment,Resolved
+224,95,2025-09-01 10:00:00,2025-09-02 16:00:00,Critical,Payment,In Progress
+225,242,2024-12-22 10:00:00,2024-12-24 16:00:00,Medium,Placement,In Progress
+226,545,2025-10-30 10:00:00,2025-11-09 16:00:00,Critical,Course Content,Closed
+227,387,2025-01-06 10:00:00,,Medium,Payment,Open
+228,475,2024-11-04 10:00:00,2024-11-04 16:00:00,Critical,Payment,In Progress
+229,780,2024-09-27 10:00:00,2024-10-07 16:00:00,High,Payment,Open
+230,550,2024-10-28 10:00:00,2024-10-28 16:00:00,Critical,Mentorship,Closed
+231,483,2025-02-23 10:00:00,2025-03-05 16:00:00,Low,Course Content,In Progress
+232,816,2025-08-04 10:00:00,2025-08-04 16:00:00,Medium,LMS Access,Closed
+233,93,2025-03-10 10:00:00,2025-03-19 16:00:00,Critical,Course Content,In Progress
+234,943,2024-07-27 10:00:00,2024-07-27 16:00:00,High,Course Content,Closed
+235,14,2024-11-10 10:00:00,2024-11-11 16:00:00,High,Mentorship,Closed
+236,242,2024-11-01 10:00:00,2024-11-13 16:00:00,High,Payment,Resolved
+237,810,2025-05-27 10:00:00,2025-06-04 16:00:00,Critical,LMS Access,Closed
+238,969,2025-03-14 10:00:00,2025-03-18 16:00:00,Critical,Payment,In Progress
+239,249,2025-03-07 10:00:00,2025-03-13 16:00:00,Critical,Mentorship,In Progress
+240,6,2024-08-05 10:00:00,,High,Payment,Open
+241,75,2024-10-29 10:00:00,2024-11-07 16:00:00,High,Payment,Resolved
+242,872,2025-11-10 10:00:00,,High,Placement,Open
+243,237,2025-03-26 10:00:00,,Medium,Mentorship,In Progress
+244,901,2024-08-03 10:00:00,2024-08-06 16:00:00,High,LMS Access,Open
+245,563,2025-02-08 10:00:00,2025-02-09 16:00:00,Critical,LMS Access,In Progress
+246,457,2024-08-25 10:00:00,2024-08-29 16:00:00,Medium,Course Content,In Progress
+247,613,2025-05-14 10:00:00,2025-05-21 16:00:00,High,Payment,In Progress
+248,123,2025-08-02 10:00:00,2025-08-02 16:00:00,Critical,Mentorship,In Progress
+249,570,2025-05-26 10:00:00,2025-05-26 16:00:00,Medium,Payment,In Progress
+250,700,2025-01-28 10:00:00,2025-02-08 16:00:00,Critical,Course Content,Closed
+251,479,2025-07-10 10:00:00,2025-07-13 16:00:00,High,Mentorship,Open
+252,75,2024-12-31 10:00:00,2025-01-05 16:00:00,Low,Course Content,Closed
+253,502,2025-06-15 10:00:00,2025-06-17 16:00:00,Medium,Course Content,Open
+254,424,2024-11-22 10:00:00,,Medium,Course Content,In Progress
+255,111,2024-09-02 10:00:00,2024-09-09 16:00:00,Medium,Placement,Open
+256,431,2025-01-28 10:00:00,2025-02-08 16:00:00,Medium,Placement,Open
+257,929,2024-08-19 10:00:00,2024-08-31 16:00:00,Low,Payment,Open
+258,420,2024-04-23 10:00:00,2024-04-27 16:00:00,Low,Mentorship,Resolved
+259,934,2025-02-16 10:00:00,2025-02-22 16:00:00,Medium,Course Content,Open
+260,356,2025-07-25 10:00:00,2025-08-06 16:00:00,High,Payment,In Progress
+261,933,2024-05-05 10:00:00,2024-05-09 16:00:00,High,LMS Access,In Progress
+262,217,2024-09-12 10:00:00,2024-09-12 16:00:00,Medium,Course Content,In Progress
+263,953,2024-11-09 10:00:00,2024-11-09 16:00:00,Critical,Payment,Resolved
+264,938,2024-05-27 10:00:00,2024-06-01 16:00:00,High,LMS Access,In Progress
+265,957,2025-03-15 10:00:00,2025-03-27 16:00:00,Medium,Course Content,Resolved
+266,373,2024-11-14 10:00:00,2024-11-23 16:00:00,High,Placement,In Progress
+267,610,2025-05-31 10:00:00,2025-06-01 16:00:00,Low,Course Content,Open
+268,928,2024-08-28 10:00:00,2024-08-28 16:00:00,Medium,Course Content,Resolved
+269,378,2025-03-17 10:00:00,2025-03-17 16:00:00,Medium,Placement,Resolved
+270,12,2025-10-20 10:00:00,2025-10-23 16:00:00,High,Mentorship,Resolved
+271,320,2024-06-01 10:00:00,2024-06-06 16:00:00,High,Payment,Open
+272,429,2025-02-16 10:00:00,2025-02-16 16:00:00,Critical,Payment,Resolved
+273,395,2025-05-10 10:00:00,2025-05-13 16:00:00,Critical,Payment,Resolved
+274,656,2024-08-05 10:00:00,2024-08-05 16:00:00,Critical,Mentorship,In Progress
+275,108,2025-10-03 10:00:00,2025-10-12 16:00:00,Critical,Payment,Closed
+276,325,2025-06-06 10:00:00,2025-06-12 16:00:00,High,LMS Access,In Progress
+277,171,2024-08-25 10:00:00,2024-09-06 16:00:00,Medium,LMS Access,In Progress
+278,840,2025-03-06 10:00:00,2025-03-15 16:00:00,High,Mentorship,In Progress
+279,878,2025-07-08 10:00:00,2025-07-15 16:00:00,Low,Mentorship,Closed
+280,212,2024-07-13 10:00:00,2024-07-21 16:00:00,Low,Payment,Open
+281,750,2024-10-05 10:00:00,2024-10-05 16:00:00,Low,Payment,Closed
+282,779,2025-12-02 10:00:00,2025-12-11 16:00:00,Critical,Mentorship,In Progress
+283,429,2025-02-13 10:00:00,2025-02-24 16:00:00,High,Payment,In Progress
+284,878,2024-12-15 10:00:00,2024-12-15 16:00:00,Critical,LMS Access,Open
+285,232,2025-04-02 10:00:00,2025-04-14 16:00:00,Critical,Course Content,Resolved
+286,635,2025-11-05 10:00:00,2025-11-15 16:00:00,Critical,Placement,In Progress
+287,639,2024-07-04 10:00:00,2024-07-06 16:00:00,Low,Mentorship,Closed
+288,542,2025-01-07 10:00:00,2025-01-08 16:00:00,High,LMS Access,Open
+289,946,2024-11-05 10:00:00,2024-11-14 16:00:00,High,Course Content,In Progress
+290,863,2025-07-11 10:00:00,2025-07-12 16:00:00,Low,Placement,In Progress
+291,384,2025-06-03 10:00:00,2025-06-12 16:00:00,Critical,Course Content,Closed
+292,375,2024-12-22 10:00:00,2024-12-26 16:00:00,High,LMS Access,Resolved
+293,328,2024-05-15 10:00:00,2024-05-19 16:00:00,Medium,Payment,In Progress
+294,612,2025-02-16 10:00:00,2025-02-28 16:00:00,High,Course Content,Resolved
+295,72,2026-01-10 10:00:00,2026-01-10 16:00:00,High,Course Content,Closed
+296,721,2024-03-18 10:00:00,2024-03-30 16:00:00,Medium,Placement,In Progress
+297,851,2025-04-16 10:00:00,2025-04-22 16:00:00,Medium,Payment,In Progress
+298,108,2025-12-08 10:00:00,2025-12-09 16:00:00,Low,Mentorship,In Progress
+299,250,2025-05-21 10:00:00,,Low,LMS Access,Open
+300,487,2025-02-20 10:00:00,2025-02-21 16:00:00,Medium,Payment,Closed
+301,115,2025-06-16 10:00:00,2025-06-23 16:00:00,Low,Payment,Resolved
+302,420,2024-08-20 10:00:00,2024-08-31 16:00:00,Low,LMS Access,Resolved
+303,577,2024-09-17 10:00:00,2024-09-23 16:00:00,Critical,Payment,Resolved
+304,117,2024-10-01 10:00:00,2024-10-08 16:00:00,Medium,Mentorship,Resolved
+305,214,2024-11-02 10:00:00,2024-11-12 16:00:00,High,Course Content,Open
+306,999,2025-01-01 10:00:00,2025-01-10 16:00:00,Medium,Mentorship,In Progress
+307,335,2025-10-13 10:00:00,2025-10-16 16:00:00,Low,LMS Access,Resolved
+308,225,2024-03-31 10:00:00,2024-04-06 16:00:00,Critical,Placement,Resolved
+309,124,2024-05-12 10:00:00,2024-05-18 16:00:00,Medium,LMS Access,Open
+310,54,2025-12-14 10:00:00,2025-12-20 16:00:00,Low,Course Content,Open
+311,783,2024-12-08 10:00:00,2024-12-14 16:00:00,Medium,Mentorship,Closed
+312,163,2024-03-21 10:00:00,2024-04-01 16:00:00,Medium,LMS Access,Closed
+313,100,2024-10-19 10:00:00,2024-10-31 16:00:00,Low,Course Content,Open
+314,676,2025-10-11 10:00:00,2025-10-18 16:00:00,Low,Placement,Closed
+315,544,2024-05-04 10:00:00,2024-05-04 16:00:00,Low,Payment,Closed
+316,744,2024-07-28 10:00:00,2024-08-02 16:00:00,Critical,LMS Access,Closed
+317,888,2024-10-09 10:00:00,2024-10-19 16:00:00,High,LMS Access,Closed
+318,767,2025-01-28 10:00:00,2025-02-07 16:00:00,Low,LMS Access,Resolved
+319,689,2024-05-21 10:00:00,2024-05-26 16:00:00,High,LMS Access,Open
+320,157,2024-07-18 10:00:00,2024-07-20 16:00:00,Low,Placement,In Progress
+321,789,2025-06-21 10:00:00,2025-06-30 16:00:00,Critical,Placement,Resolved
+322,877,2025-06-20 10:00:00,,High,Placement,In Progress
+323,445,2025-06-06 10:00:00,2025-06-16 16:00:00,Low,Course Content,In Progress
+324,935,2024-07-24 10:00:00,2024-07-26 16:00:00,Critical,Mentorship,In Progress
+325,778,2024-09-30 10:00:00,2024-09-30 16:00:00,Critical,Mentorship,Open
+326,317,2025-07-09 10:00:00,2025-07-16 16:00:00,Critical,Placement,Resolved
+327,156,2024-08-25 10:00:00,2024-08-31 16:00:00,Critical,Mentorship,Closed
+328,25,2024-11-11 10:00:00,2024-11-20 16:00:00,High,Placement,Open
+329,624,2024-09-26 10:00:00,2024-09-28 16:00:00,Critical,LMS Access,Open
+330,456,2024-07-05 10:00:00,2024-07-10 16:00:00,High,LMS Access,Resolved
+331,131,2025-08-21 10:00:00,2025-08-29 16:00:00,High,Placement,Resolved
+332,206,2025-02-13 10:00:00,2025-02-17 16:00:00,Low,Mentorship,Open
+333,848,2025-11-02 10:00:00,2025-11-06 16:00:00,Medium,Mentorship,Resolved
+334,460,2025-02-27 10:00:00,2025-02-27 16:00:00,Critical,Course Content,In Progress
+335,472,2025-10-12 10:00:00,2025-10-16 16:00:00,Low,LMS Access,Resolved
+336,12,2026-02-04 10:00:00,2026-02-11 16:00:00,High,Placement,Closed
+337,616,2024-05-25 10:00:00,2024-06-02 16:00:00,Low,Payment,Open
+338,487,2025-05-24 10:00:00,2025-05-24 16:00:00,High,Payment,Open
+339,648,2024-09-25 10:00:00,2024-10-07 16:00:00,Low,Mentorship,In Progress
+340,156,2025-11-29 10:00:00,2025-12-10 16:00:00,Medium,Payment,In Progress
+341,322,2024-11-27 10:00:00,2024-12-02 16:00:00,High,Course Content,Open
+342,672,2024-09-14 10:00:00,,High,Payment,In Progress
+343,938,2024-04-23 10:00:00,2024-04-29 16:00:00,Low,Course Content,Open
+344,137,2025-03-02 10:00:00,,High,Mentorship,Closed
+345,105,2025-08-24 10:00:00,2025-08-25 16:00:00,Low,Mentorship,In Progress
+346,639,2024-07-23 10:00:00,2024-07-24 16:00:00,Low,Course Content,Closed
+347,180,2025-06-27 10:00:00,2025-07-05 16:00:00,Medium,Placement,Resolved
+348,272,2025-12-04 10:00:00,2025-12-13 16:00:00,Medium,LMS Access,Closed
+349,532,2024-08-07 10:00:00,2024-08-16 16:00:00,Low,Payment,Open
+350,568,2024-09-28 10:00:00,2024-10-04 16:00:00,Medium,Placement,Closed
+351,240,2024-12-24 10:00:00,2024-12-24 16:00:00,Critical,Payment,Resolved
+352,18,2025-01-28 10:00:00,2025-02-03 16:00:00,Medium,Payment,Closed
+353,719,2026-01-18 10:00:00,,Medium,Placement,Resolved
+354,301,2024-03-06 10:00:00,2024-03-09 16:00:00,High,Mentorship,Closed
+355,160,2024-06-13 10:00:00,2024-06-21 16:00:00,Low,Mentorship,Resolved
+356,706,2025-01-14 10:00:00,2025-01-22 16:00:00,Medium,Payment,Resolved
+357,727,2025-07-31 10:00:00,,Low,Mentorship,Open
+358,355,2024-11-12 10:00:00,,Medium,Mentorship,Resolved
+359,373,2024-11-28 10:00:00,2024-11-28 16:00:00,Critical,Mentorship,Open
+360,846,2025-05-09 10:00:00,2025-05-10 16:00:00,Medium,LMS Access,Open
+361,16,2025-12-02 10:00:00,2025-12-06 16:00:00,Critical,Placement,Resolved
+362,568,2025-08-22 10:00:00,2025-09-02 16:00:00,Low,Payment,Resolved
+363,457,2024-08-30 10:00:00,2024-09-05 16:00:00,High,Course Content,Open
+364,779,2025-08-30 10:00:00,2025-09-04 16:00:00,Critical,Placement,Open
+365,582,2024-07-08 10:00:00,,High,Mentorship,Open
+366,243,2025-03-25 10:00:00,2025-04-04 16:00:00,Medium,Placement,In Progress
+367,287,2024-05-06 10:00:00,2024-05-14 16:00:00,Critical,LMS Access,Resolved
+368,200,2024-12-18 10:00:00,2024-12-25 16:00:00,Low,LMS Access,Closed
+369,859,2025-02-05 10:00:00,2025-02-14 16:00:00,High,Mentorship,Closed
+370,434,2024-07-08 10:00:00,2024-07-09 16:00:00,Low,Placement,Closed
+371,737,2025-02-22 10:00:00,2025-02-24 16:00:00,Critical,Course Content,Closed
+372,912,2024-10-30 10:00:00,2024-11-03 16:00:00,Medium,Mentorship,Closed
+373,232,2025-05-26 10:00:00,,Medium,Course Content,Open
+374,191,2025-06-06 10:00:00,2025-06-18 16:00:00,Low,Course Content,In Progress
+375,930,2024-09-27 10:00:00,2024-10-06 16:00:00,High,Payment,Closed
+376,97,2024-12-23 10:00:00,2024-12-28 16:00:00,High,Payment,Resolved
+377,545,2026-02-12 10:00:00,2026-02-13 16:00:00,Low,Placement,Resolved
+378,6,2025-04-22 10:00:00,2025-04-27 16:00:00,Critical,LMS Access,Closed
+379,432,2024-09-25 10:00:00,2024-09-30 16:00:00,Medium,LMS Access,Resolved
+380,384,2025-04-05 10:00:00,2025-04-08 16:00:00,Medium,Payment,Open
+381,15,2025-03-24 10:00:00,2025-03-27 16:00:00,Critical,Course Content,In Progress
+382,975,2025-06-22 10:00:00,2025-07-04 16:00:00,Medium,Placement,Resolved
+383,941,2025-11-16 10:00:00,2025-11-19 16:00:00,High,Mentorship,Resolved
+384,430,2025-11-17 10:00:00,2025-11-22 16:00:00,Low,Mentorship,Closed
+385,533,2024-07-13 10:00:00,,Critical,Mentorship,In Progress
+386,335,2025-06-24 10:00:00,2025-07-03 16:00:00,Low,Mentorship,Resolved
+387,152,2025-01-21 10:00:00,2025-01-22 16:00:00,Medium,Mentorship,In Progress
+388,841,2025-08-17 10:00:00,2025-08-27 16:00:00,Critical,Placement,Open
+389,758,2024-05-14 10:00:00,,Critical,Placement,Open
+390,125,2025-02-18 10:00:00,,High,Course Content,In Progress
+391,884,2024-08-03 10:00:00,2024-08-04 16:00:00,High,Payment,Open
+392,648,2024-09-12 10:00:00,2024-09-14 16:00:00,Critical,Placement,In Progress
+393,107,2025-03-05 10:00:00,,Critical,Placement,Closed
+394,700,2025-01-11 10:00:00,2025-01-16 16:00:00,Critical,Placement,Open
+395,614,2025-04-14 10:00:00,2025-04-17 16:00:00,Medium,Placement,Resolved
+396,83,2024-06-07 10:00:00,2024-06-10 16:00:00,High,Mentorship,In Progress
+397,352,2025-08-10 10:00:00,2025-08-11 16:00:00,High,LMS Access,In Progress
+398,759,2025-08-14 10:00:00,,High,Payment,Open
+399,112,2024-08-24 10:00:00,2024-08-30 16:00:00,Critical,LMS Access,Resolved
+400,593,2025-05-19 10:00:00,2025-05-20 16:00:00,Low,Course Content,Open

@@ -1,0 +1,1001 @@
+student_id,first_name,last_name,email,city,state,signup_date,education_level,lead_source
+1,Student0001,Sharma,student0001@example.com,Siliguri,Delhi,2024-05-01,Diploma,Webinar
+2,Student0002,Singh,student0002@example.com,Jaipur,Delhi,2025-07-14,Graduate,Webinar
+3,Student0003,Das,student0003@example.com,Bengaluru,West Bengal,2024-03-23,Diploma,Organic
+4,Student0004,Sharma,student0004@example.com,Mumbai,Karnataka,2025-05-17,Undergraduate,Google Ads
+5,Student0005,Singh,student0005@example.com,Siliguri,Maharashtra,2024-12-31,Graduate,Webinar
+6,Student0006,Sharma,student0006@example.com,Bengaluru,Karnataka,2025-07-04,Postgraduate,Instagram
+7,Student0007,Sharma,student0007@example.com,Kolkata,Maharashtra,2025-08-14,Undergraduate,Referral
+8,Student0008,Das,student0008@example.com,Hyderabad,Telangana,2025-03-08,Diploma,Organic
+9,Student0009,Patel,student0009@example.com,Jaipur,Karnataka,2025-03-11,Undergraduate,Referral
+10,Student0010,Singh,student0010@example.com,Kolkata,Telangana,2025-07-31,Postgraduate,LinkedIn
+11,Student0011,Patel,student0011@example.com,Siliguri,Telangana,2024-02-20,Diploma,Referral
+12,Student0012,Singh,student0012@example.com,Mumbai,West Bengal,2024-05-25,Diploma,Instagram
+13,Student0013,Patel,student0013@example.com,Bengaluru,Telangana,2025-04-25,Diploma,Instagram
+14,Student0014,Patel,student0014@example.com,Jaipur,Karnataka,2024-11-11,Diploma,LinkedIn
+15,Student0015,Sharma,student0015@example.com,Kolkata,West Bengal,2024-10-28,Postgraduate,Instagram
+16,Student0016,Singh,student0016@example.com,Jaipur,Maharashtra,2025-09-03,Postgraduate,Google Ads
+17,Student0017,Singh,student0017@example.com,Jaipur,Karnataka,2025-05-12,Graduate,Google Ads
+18,Student0018,Singh,student0018@example.com,Siliguri,Karnataka,2024-11-20,Undergraduate,Referral
+19,Student0019,Singh,student0019@example.com,Jaipur,West Bengal,2024-07-06,Undergraduate,Referral
+20,Student0020,Das,student0020@example.com,Mumbai,Karnataka,2025-01-14,Postgraduate,Referral
+21,Student0021,Das,student0021@example.com,Kolkata,Karnataka,2024-01-15,Graduate,Webinar
+22,Student0022,Roy,student0022@example.com,Siliguri,Telangana,2024-07-22,Graduate,Webinar
+23,Student0023,Sharma,student0023@example.com,Delhi,West Bengal,2024-10-01,Undergraduate,Instagram
+24,Student0024,Patel,student0024@example.com,Jaipur,Delhi,2025-08-20,Postgraduate,Referral
+25,Student0025,Roy,student0025@example.com,Bengaluru,West Bengal,2025-08-25,Diploma,Instagram
+26,Student0026,Roy,student0026@example.com,Bengaluru,Telangana,2024-06-12,Diploma,Referral
+27,Student0027,Patel,student0027@example.com,Mumbai,Karnataka,2024-06-01,Graduate,Organic
+28,Student0028,Das,student0028@example.com,Kolkata,Maharashtra,2025-02-02,Undergraduate,Organic
+29,Student0029,Patel,student0029@example.com,Jaipur,Maharashtra,2024-01-27,Undergraduate,Referral
+30,Student0030,Das,student0030@example.com,Jaipur,Karnataka,2024-11-29,Postgraduate,LinkedIn
+31,Student0031,Patel,student0031@example.com,Mumbai,Karnataka,2025-08-28,Undergraduate,Referral
+32,Student0032,Roy,student0032@example.com,Siliguri,Telangana,2025-09-04,Diploma,Organic
+33,Student0033,Roy,student0033@example.com,Kolkata,Telangana,2024-07-19,Graduate,Referral
+34,Student0034,Roy,student0034@example.com,Jaipur,West Bengal,2025-10-18,Postgraduate,Instagram
+35,Student0035,Roy,student0035@example.com,Delhi,Delhi,2025-06-26,Postgraduate,Referral
+36,Student0036,Singh,student0036@example.com,Hyderabad,West Bengal,2024-10-06,Diploma,Google Ads
+37,Student0037,Sharma,student0037@example.com,Delhi,Maharashtra,2024-07-10,Diploma,Referral
+38,Student0038,Sharma,student0038@example.com,Jaipur,Delhi,2025-03-01,Undergraduate,Webinar
+39,Student0039,Singh,student0039@example.com,Siliguri,Telangana,2025-05-08,Undergraduate,Organic
+40,Student0040,Roy,student0040@example.com,Kolkata,West Bengal,2024-08-07,Diploma,Instagram
+41,Student0041,Singh,student0041@example.com,Delhi,West Bengal,2024-12-04,Undergraduate,LinkedIn
+42,Student0042,Patel,student0042@example.com,Mumbai,West Bengal,2024-12-26,Undergraduate,Webinar
+43,Student0043,Roy,student0043@example.com,Bengaluru,Telangana,2025-08-04,Undergraduate,Instagram
+44,Student0044,Roy,student0044@example.com,Siliguri,Maharashtra,2025-07-23,Graduate,Referral
+45,Student0045,Das,student0045@example.com,Kolkata,Maharashtra,2024-06-24,Postgraduate,Instagram
+46,Student0046,Das,student0046@example.com,Pune,Maharashtra,2025-10-07,Graduate,Google Ads
+47,Student0047,Roy,student0047@example.com,Bengaluru,Maharashtra,2024-11-18,Graduate,Organic
+48,Student0048,Sharma,student0048@example.com,Hyderabad,West Bengal,2025-02-25,Graduate,Organic
+49,Student0049,Das,student0049@example.com,Bengaluru,West Bengal,2024-08-28,Graduate,Instagram
+50,Student0050,Patel,student0050@example.com,Pune,Maharashtra,2025-07-28,Diploma,Webinar
+51,Student0051,Patel,student0051@example.com,Kolkata,Karnataka,2025-10-02,Undergraduate,Webinar
+52,Student0052,Patel,student0052@example.com,Jaipur,Karnataka,2024-08-08,Graduate,Instagram
+53,Student0053,Patel,student0053@example.com,Bengaluru,Karnataka,2025-01-18,Undergraduate,Google Ads
+54,Student0054,Singh,student0054@example.com,Kolkata,Maharashtra,2024-02-29,Undergraduate,Google Ads
+55,Student0055,Sharma,student0055@example.com,Hyderabad,Maharashtra,2024-05-05,Graduate,Webinar
+56,Student0056,Roy,student0056@example.com,Kolkata,West Bengal,2024-12-16,Postgraduate,Webinar
+57,Student0057,Das,student0057@example.com,Kolkata,Delhi,2024-05-05,Undergraduate,Webinar
+58,Student0058,Sharma,student0058@example.com,Kolkata,Karnataka,2025-10-25,Postgraduate,Google Ads
+59,Student0059,Singh,student0059@example.com,Hyderabad,Delhi,2025-03-01,Diploma,Instagram
+60,Student0060,Roy,student0060@example.com,Delhi,Telangana,2024-08-12,Graduate,Instagram
+61,Student0061,Patel,student0061@example.com,Hyderabad,Maharashtra,2025-07-08,Postgraduate,LinkedIn
+62,Student0062,Das,student0062@example.com,Bengaluru,Telangana,2024-01-24,Diploma,Referral
+63,Student0063,Sharma,student0063@example.com,Delhi,Telangana,2024-09-27,Graduate,LinkedIn
+64,Student0064,Das,student0064@example.com,Bengaluru,Maharashtra,2025-07-20,Undergraduate,Organic
+65,Student0065,Das,student0065@example.com,Mumbai,Karnataka,2025-11-04,Graduate,LinkedIn
+66,Student0066,Patel,student0066@example.com,Delhi,Karnataka,2025-11-26,Undergraduate,LinkedIn
+67,Student0067,Sharma,student0067@example.com,Pune,Delhi,2025-07-29,Undergraduate,Google Ads
+68,Student0068,Singh,student0068@example.com,Jaipur,Telangana,2025-04-15,Undergraduate,LinkedIn
+69,Student0069,Singh,student0069@example.com,Delhi,Karnataka,2024-06-11,Graduate,Google Ads
+70,Student0070,Singh,student0070@example.com,Kolkata,Delhi,2025-06-19,Graduate,Google Ads
+71,Student0071,Patel,student0071@example.com,Bengaluru,Delhi,2025-01-16,Graduate,Organic
+72,Student0072,Roy,student0072@example.com,Bengaluru,Telangana,2025-06-30,Graduate,Referral
+73,Student0073,Patel,student0073@example.com,Delhi,Telangana,2025-01-24,Graduate,Organic
+74,Student0074,Singh,student0074@example.com,Pune,Telangana,2024-05-25,Undergraduate,Google Ads
+75,Student0075,Patel,student0075@example.com,Mumbai,Delhi,2024-02-12,Undergraduate,Google Ads
+76,Student0076,Sharma,student0076@example.com,Pune,Delhi,2025-07-08,Diploma,LinkedIn
+77,Student0077,Das,student0077@example.com,Jaipur,Karnataka,2025-10-06,Undergraduate,Webinar
+78,Student0078,Patel,student0078@example.com,Kolkata,Delhi,2024-06-23,Undergraduate,Webinar
+79,Student0079,Roy,student0079@example.com,Kolkata,West Bengal,2024-05-28,Graduate,Google Ads
+80,Student0080,Sharma,student0080@example.com,Bengaluru,Delhi,2024-03-06,Postgraduate,Webinar
+81,Student0081,Roy,student0081@example.com,Delhi,West Bengal,2025-09-16,Undergraduate,Referral
+82,Student0082,Das,student0082@example.com,Hyderabad,Maharashtra,2024-04-19,Undergraduate,Instagram
+83,Student0083,Sharma,student0083@example.com,Jaipur,Karnataka,2024-04-30,Graduate,Webinar
+84,Student0084,Roy,student0084@example.com,Pune,Karnataka,2025-06-15,Undergraduate,Organic
+85,Student0085,Das,student0085@example.com,Jaipur,Maharashtra,2024-03-11,Undergraduate,Instagram
+86,Student0086,Roy,student0086@example.com,Pune,Karnataka,2024-08-19,Undergraduate,Google Ads
+87,Student0087,Singh,student0087@example.com,Hyderabad,Maharashtra,2025-11-03,Postgraduate,LinkedIn
+88,Student0088,Roy,student0088@example.com,Pune,Maharashtra,2025-04-19,Diploma,Webinar
+89,Student0089,Roy,student0089@example.com,Delhi,Karnataka,2025-01-25,Postgraduate,Referral
+90,Student0090,Sharma,student0090@example.com,Siliguri,Maharashtra,2024-10-01,Undergraduate,Referral
+91,Student0091,Roy,student0091@example.com,Bengaluru,Delhi,2024-09-26,Undergraduate,LinkedIn
+92,Student0092,Das,student0092@example.com,Bengaluru,Maharashtra,2025-07-28,Diploma,Instagram
+93,Student0093,Singh,student0093@example.com,Kolkata,Telangana,2025-02-14,Undergraduate,Instagram
+94,Student0094,Sharma,student0094@example.com,Siliguri,Karnataka,2025-02-23,Postgraduate,Referral
+95,Student0095,Sharma,student0095@example.com,Kolkata,Karnataka,2024-12-26,Postgraduate,Organic
+96,Student0096,Patel,student0096@example.com,Bengaluru,Delhi,2024-09-30,Undergraduate,Webinar
+97,Student0097,Patel,student0097@example.com,Hyderabad,Karnataka,2025-10-21,Diploma,Google Ads
+98,Student0098,Das,student0098@example.com,Mumbai,West Bengal,2024-01-13,Undergraduate,Google Ads
+99,Student0099,Roy,student0099@example.com,Jaipur,Telangana,2024-01-19,Undergraduate,Webinar
+100,Student0100,Sharma,student0100@example.com,Siliguri,Telangana,2025-10-07,Postgraduate,Webinar
+101,Student0101,Das,student0101@example.com,Delhi,Maharashtra,2024-01-12,Postgraduate,Referral
+102,Student0102,Patel,student0102@example.com,Delhi,Maharashtra,2024-07-30,Graduate,Webinar
+103,Student0103,Patel,student0103@example.com,Delhi,West Bengal,2025-03-03,Graduate,Google Ads
+104,Student0104,Das,student0104@example.com,Delhi,Telangana,2025-03-05,Postgraduate,Referral
+105,Student0105,Sharma,student0105@example.com,Pune,Maharashtra,2025-11-04,Undergraduate,Webinar
+106,Student0106,Sharma,student0106@example.com,Jaipur,Maharashtra,2025-05-06,Undergraduate,Organic
+107,Student0107,Singh,student0107@example.com,Delhi,West Bengal,2025-10-21,Diploma,Google Ads
+108,Student0108,Singh,student0108@example.com,Mumbai,Maharashtra,2024-09-16,Undergraduate,Webinar
+109,Student0109,Sharma,student0109@example.com,Mumbai,Telangana,2025-02-13,Graduate,Referral
+110,Student0110,Patel,student0110@example.com,Bengaluru,Karnataka,2024-03-07,Graduate,Webinar
+111,Student0111,Patel,student0111@example.com,Pune,Karnataka,2025-06-18,Undergraduate,Instagram
+112,Student0112,Sharma,student0112@example.com,Delhi,West Bengal,2024-12-13,Postgraduate,Google Ads
+113,Student0113,Patel,student0113@example.com,Hyderabad,West Bengal,2025-06-24,Postgraduate,Organic
+114,Student0114,Roy,student0114@example.com,Mumbai,Karnataka,2025-04-19,Postgraduate,Webinar
+115,Student0115,Sharma,student0115@example.com,Jaipur,Delhi,2024-08-04,Undergraduate,Google Ads
+116,Student0116,Singh,student0116@example.com,Mumbai,Delhi,2025-10-28,Postgraduate,Instagram
+117,Student0117,Roy,student0117@example.com,Kolkata,West Bengal,2024-05-27,Undergraduate,Google Ads
+118,Student0118,Roy,student0118@example.com,Bengaluru,Telangana,2024-07-02,Undergraduate,LinkedIn
+119,Student0119,Roy,student0119@example.com,Delhi,West Bengal,2025-04-13,Postgraduate,Instagram
+120,Student0120,Singh,student0120@example.com,Jaipur,Telangana,2024-06-06,Graduate,Google Ads
+121,Student0121,Patel,student0121@example.com,Pune,Telangana,2024-08-14,Graduate,Referral
+122,Student0122,Singh,student0122@example.com,Delhi,Maharashtra,2025-11-27,Postgraduate,Instagram
+123,Student0123,Das,student0123@example.com,Jaipur,West Bengal,2025-06-04,Graduate,Organic
+124,Student0124,Patel,student0124@example.com,Bengaluru,Maharashtra,2024-12-27,Graduate,LinkedIn
+125,Student0125,Roy,student0125@example.com,Siliguri,Karnataka,2025-05-30,Diploma,LinkedIn
+126,Student0126,Roy,student0126@example.com,Mumbai,Karnataka,2024-06-23,Postgraduate,Google Ads
+127,Student0127,Patel,student0127@example.com,Hyderabad,Karnataka,2024-06-11,Diploma,Google Ads
+128,Student0128,Sharma,student0128@example.com,Jaipur,Telangana,2024-08-02,Diploma,Organic
+129,Student0129,Roy,student0129@example.com,Siliguri,West Bengal,2024-08-04,Undergraduate,Instagram
+130,Student0130,Patel,student0130@example.com,Delhi,West Bengal,2025-11-26,Postgraduate,LinkedIn
+131,Student0131,Singh,student0131@example.com,Mumbai,Karnataka,2025-10-18,Graduate,Webinar
+132,Student0132,Sharma,student0132@example.com,Bengaluru,Maharashtra,2024-05-28,Diploma,Organic
+133,Student0133,Patel,student0133@example.com,Jaipur,Maharashtra,2025-05-03,Undergraduate,Referral
+134,Student0134,Das,student0134@example.com,Delhi,Telangana,2024-05-21,Postgraduate,Google Ads
+135,Student0135,Singh,student0135@example.com,Kolkata,Telangana,2025-04-11,Undergraduate,Google Ads
+136,Student0136,Das,student0136@example.com,Jaipur,Karnataka,2025-11-29,Undergraduate,Webinar
+137,Student0137,Patel,student0137@example.com,Siliguri,Maharashtra,2025-06-22,Undergraduate,Organic
+138,Student0138,Patel,student0138@example.com,Kolkata,West Bengal,2024-03-23,Diploma,Webinar
+139,Student0139,Singh,student0139@example.com,Jaipur,Telangana,2024-04-21,Diploma,Webinar
+140,Student0140,Roy,student0140@example.com,Pune,Delhi,2024-01-23,Graduate,Organic
+141,Student0141,Das,student0141@example.com,Delhi,Telangana,2025-02-05,Undergraduate,Organic
+142,Student0142,Das,student0142@example.com,Siliguri,Maharashtra,2024-02-17,Postgraduate,Google Ads
+143,Student0143,Roy,student0143@example.com,Pune,Karnataka,2025-04-27,Postgraduate,Referral
+144,Student0144,Patel,student0144@example.com,Pune,Karnataka,2024-09-01,Graduate,Referral
+145,Student0145,Patel,student0145@example.com,Delhi,Karnataka,2024-09-12,Postgraduate,Organic
+146,Student0146,Singh,student0146@example.com,Hyderabad,Karnataka,2025-08-25,Graduate,Referral
+147,Student0147,Singh,student0147@example.com,Kolkata,Telangana,2024-08-11,Diploma,LinkedIn
+148,Student0148,Roy,student0148@example.com,Pune,Maharashtra,2024-10-28,Diploma,Instagram
+149,Student0149,Das,student0149@example.com,Pune,Telangana,2025-08-17,Postgraduate,Webinar
+150,Student0150,Patel,student0150@example.com,Pune,Delhi,2024-05-05,Graduate,Webinar
+151,Student0151,Singh,student0151@example.com,Hyderabad,West Bengal,2024-06-23,Graduate,Referral
+152,Student0152,Das,student0152@example.com,Mumbai,Delhi,2025-02-14,Graduate,Google Ads
+153,Student0153,Patel,student0153@example.com,Bengaluru,Maharashtra,2024-06-22,Graduate,Google Ads
+154,Student0154,Das,student0154@example.com,Mumbai,Telangana,2024-06-20,Graduate,Referral
+155,Student0155,Das,student0155@example.com,Pune,Karnataka,2025-07-16,Graduate,LinkedIn
+156,Student0156,Singh,student0156@example.com,Kolkata,Maharashtra,2025-10-28,Graduate,LinkedIn
+157,Student0157,Das,student0157@example.com,Bengaluru,Delhi,2025-10-29,Graduate,Google Ads
+158,Student0158,Das,student0158@example.com,Jaipur,Maharashtra,2025-09-24,Graduate,Instagram
+159,Student0159,Roy,student0159@example.com,Mumbai,Karnataka,2025-07-13,Graduate,Webinar
+160,Student0160,Roy,student0160@example.com,Hyderabad,Karnataka,2024-12-26,Graduate,LinkedIn
+161,Student0161,Das,student0161@example.com,Hyderabad,Karnataka,2024-02-02,Graduate,Referral
+162,Student0162,Patel,student0162@example.com,Delhi,Delhi,2025-11-22,Postgraduate,LinkedIn
+163,Student0163,Roy,student0163@example.com,Pune,Karnataka,2025-07-26,Undergraduate,Instagram
+164,Student0164,Roy,student0164@example.com,Jaipur,West Bengal,2025-11-02,Graduate,Google Ads
+165,Student0165,Roy,student0165@example.com,Mumbai,Karnataka,2024-03-17,Postgraduate,Instagram
+166,Student0166,Roy,student0166@example.com,Jaipur,Telangana,2024-11-26,Graduate,LinkedIn
+167,Student0167,Singh,student0167@example.com,Siliguri,Karnataka,2024-01-02,Diploma,Instagram
+168,Student0168,Sharma,student0168@example.com,Pune,West Bengal,2025-08-03,Graduate,Instagram
+169,Student0169,Roy,student0169@example.com,Siliguri,Karnataka,2024-09-15,Postgraduate,Google Ads
+170,Student0170,Patel,student0170@example.com,Delhi,Maharashtra,2025-08-31,Graduate,Organic
+171,Student0171,Roy,student0171@example.com,Jaipur,Telangana,2024-12-16,Graduate,LinkedIn
+172,Student0172,Singh,student0172@example.com,Delhi,Telangana,2025-11-11,Diploma,Organic
+173,Student0173,Roy,student0173@example.com,Kolkata,Telangana,2024-03-10,Undergraduate,LinkedIn
+174,Student0174,Sharma,student0174@example.com,Kolkata,Karnataka,2025-02-21,Undergraduate,LinkedIn
+175,Student0175,Das,student0175@example.com,Jaipur,Telangana,2025-01-25,Graduate,Organic
+176,Student0176,Sharma,student0176@example.com,Jaipur,West Bengal,2024-08-20,Diploma,Google Ads
+177,Student0177,Singh,student0177@example.com,Bengaluru,Maharashtra,2025-03-25,Diploma,Instagram
+178,Student0178,Singh,student0178@example.com,Jaipur,Maharashtra,2025-09-28,Undergraduate,LinkedIn
+179,Student0179,Patel,student0179@example.com,Kolkata,Delhi,2024-04-14,Postgraduate,Instagram
+180,Student0180,Singh,student0180@example.com,Mumbai,Maharashtra,2024-10-28,Postgraduate,Organic
+181,Student0181,Singh,student0181@example.com,Delhi,Telangana,2024-08-23,Undergraduate,Instagram
+182,Student0182,Singh,student0182@example.com,Mumbai,Telangana,2025-07-03,Undergraduate,Webinar
+183,Student0183,Singh,student0183@example.com,Bengaluru,Maharashtra,2025-07-05,Diploma,LinkedIn
+184,Student0184,Patel,student0184@example.com,Bengaluru,West Bengal,2024-06-28,Postgraduate,Google Ads
+185,Student0185,Singh,student0185@example.com,Delhi,Karnataka,2024-06-22,Diploma,Instagram
+186,Student0186,Das,student0186@example.com,Bengaluru,West Bengal,2025-05-23,Undergraduate,Webinar
+187,Student0187,Singh,student0187@example.com,Mumbai,Telangana,2024-11-01,Undergraduate,Instagram
+188,Student0188,Patel,student0188@example.com,Pune,Maharashtra,2025-09-21,Diploma,Webinar
+189,Student0189,Das,student0189@example.com,Hyderabad,Telangana,2024-08-13,Diploma,Referral
+190,Student0190,Sharma,student0190@example.com,Mumbai,Telangana,2025-09-29,Diploma,Google Ads
+191,Student0191,Das,student0191@example.com,Mumbai,Delhi,2024-01-30,Postgraduate,Referral
+192,Student0192,Singh,student0192@example.com,Jaipur,Delhi,2025-09-24,Diploma,Webinar
+193,Student0193,Sharma,student0193@example.com,Kolkata,Telangana,2024-07-13,Graduate,Organic
+194,Student0194,Roy,student0194@example.com,Hyderabad,West Bengal,2024-04-29,Diploma,Webinar
+195,Student0195,Patel,student0195@example.com,Siliguri,Karnataka,2024-12-21,Postgraduate,Google Ads
+196,Student0196,Das,student0196@example.com,Siliguri,West Bengal,2024-11-14,Undergraduate,Instagram
+197,Student0197,Singh,student0197@example.com,Hyderabad,West Bengal,2024-06-03,Graduate,LinkedIn
+198,Student0198,Singh,student0198@example.com,Pune,Telangana,2025-07-21,Postgraduate,Organic
+199,Student0199,Sharma,student0199@example.com,Mumbai,Delhi,2024-03-29,Diploma,Referral
+200,Student0200,Patel,student0200@example.com,Hyderabad,Delhi,2024-04-11,Graduate,Organic
+201,Student0201,Singh,student0201@example.com,Siliguri,Karnataka,2025-04-19,Diploma,Organic
+202,Student0202,Singh,student0202@example.com,Pune,West Bengal,2025-04-04,Graduate,Referral
+203,Student0203,Singh,student0203@example.com,Siliguri,Maharashtra,2024-07-04,Postgraduate,Referral
+204,Student0204,Sharma,student0204@example.com,Delhi,West Bengal,2024-04-21,Postgraduate,Webinar
+205,Student0205,Sharma,student0205@example.com,Bengaluru,Karnataka,2025-09-12,Graduate,Instagram
+206,Student0206,Sharma,student0206@example.com,Siliguri,Karnataka,2024-08-19,Graduate,Webinar
+207,Student0207,Sharma,student0207@example.com,Pune,Karnataka,2025-09-24,Undergraduate,LinkedIn
+208,Student0208,Patel,student0208@example.com,Delhi,Telangana,2025-09-11,Diploma,Google Ads
+209,Student0209,Patel,student0209@example.com,Bengaluru,Telangana,2024-02-04,Diploma,Google Ads
+210,Student0210,Sharma,student0210@example.com,Mumbai,Telangana,2025-02-27,Diploma,LinkedIn
+211,Student0211,Patel,student0211@example.com,Bengaluru,Maharashtra,2025-01-01,Undergraduate,Organic
+212,Student0212,Roy,student0212@example.com,Kolkata,Delhi,2025-09-12,Undergraduate,Instagram
+213,Student0213,Das,student0213@example.com,Pune,Karnataka,2024-11-21,Diploma,Webinar
+214,Student0214,Patel,student0214@example.com,Hyderabad,West Bengal,2025-04-17,Undergraduate,Referral
+215,Student0215,Singh,student0215@example.com,Pune,Telangana,2025-11-27,Diploma,Google Ads
+216,Student0216,Sharma,student0216@example.com,Hyderabad,Maharashtra,2024-01-15,Undergraduate,Referral
+217,Student0217,Sharma,student0217@example.com,Hyderabad,Karnataka,2024-01-11,Graduate,Webinar
+218,Student0218,Sharma,student0218@example.com,Kolkata,West Bengal,2024-01-24,Undergraduate,Referral
+219,Student0219,Singh,student0219@example.com,Bengaluru,Maharashtra,2024-09-24,Graduate,LinkedIn
+220,Student0220,Das,student0220@example.com,Siliguri,Delhi,2024-08-11,Postgraduate,Organic
+221,Student0221,Patel,student0221@example.com,Jaipur,West Bengal,2025-01-10,Graduate,Google Ads
+222,Student0222,Das,student0222@example.com,Hyderabad,Delhi,2024-05-09,Graduate,Instagram
+223,Student0223,Das,student0223@example.com,Siliguri,Telangana,2024-03-09,Diploma,Organic
+224,Student0224,Singh,student0224@example.com,Kolkata,Maharashtra,2024-05-20,Diploma,Google Ads
+225,Student0225,Singh,student0225@example.com,Mumbai,West Bengal,2025-07-24,Diploma,Google Ads
+226,Student0226,Sharma,student0226@example.com,Delhi,Telangana,2024-06-02,Diploma,Instagram
+227,Student0227,Das,student0227@example.com,Jaipur,Telangana,2024-02-19,Diploma,Referral
+228,Student0228,Roy,student0228@example.com,Kolkata,Maharashtra,2025-03-27,Graduate,LinkedIn
+229,Student0229,Roy,student0229@example.com,Bengaluru,Karnataka,2025-03-16,Postgraduate,LinkedIn
+230,Student0230,Roy,student0230@example.com,Bengaluru,West Bengal,2024-11-25,Graduate,LinkedIn
+231,Student0231,Singh,student0231@example.com,Siliguri,Maharashtra,2025-04-22,Diploma,Organic
+232,Student0232,Sharma,student0232@example.com,Siliguri,Maharashtra,2024-01-11,Postgraduate,LinkedIn
+233,Student0233,Sharma,student0233@example.com,Siliguri,Maharashtra,2024-12-14,Graduate,Webinar
+234,Student0234,Roy,student0234@example.com,Jaipur,Telangana,2024-03-15,Undergraduate,LinkedIn
+235,Student0235,Roy,student0235@example.com,Mumbai,Telangana,2024-06-23,Undergraduate,Instagram
+236,Student0236,Singh,student0236@example.com,Bengaluru,Telangana,2024-05-02,Diploma,Google Ads
+237,Student0237,Roy,student0237@example.com,Delhi,Maharashtra,2024-07-14,Diploma,Organic
+238,Student0238,Patel,student0238@example.com,Delhi,Telangana,2025-10-17,Undergraduate,Webinar
+239,Student0239,Patel,student0239@example.com,Pune,Delhi,2024-02-20,Undergraduate,Referral
+240,Student0240,Das,student0240@example.com,Bengaluru,Delhi,2025-10-12,Undergraduate,Referral
+241,Student0241,Das,student0241@example.com,Mumbai,Maharashtra,2025-02-06,Graduate,Google Ads
+242,Student0242,Singh,student0242@example.com,Siliguri,Karnataka,2025-11-25,Undergraduate,Google Ads
+243,Student0243,Roy,student0243@example.com,Kolkata,West Bengal,2024-11-01,Undergraduate,Referral
+244,Student0244,Roy,student0244@example.com,Mumbai,Telangana,2024-04-02,Graduate,Organic
+245,Student0245,Roy,student0245@example.com,Kolkata,Maharashtra,2024-11-18,Graduate,Google Ads
+246,Student0246,Patel,student0246@example.com,Hyderabad,Maharashtra,2025-05-25,Postgraduate,Organic
+247,Student0247,Patel,student0247@example.com,Jaipur,Karnataka,2025-01-01,Diploma,Organic
+248,Student0248,Sharma,student0248@example.com,Pune,Delhi,2025-10-02,Undergraduate,Webinar
+249,Student0249,Patel,student0249@example.com,Pune,Karnataka,2025-10-11,Graduate,Instagram
+250,Student0250,Das,student0250@example.com,Hyderabad,Karnataka,2025-10-25,Graduate,Instagram
+251,Student0251,Das,student0251@example.com,Jaipur,Delhi,2025-09-04,Diploma,Referral
+252,Student0252,Sharma,student0252@example.com,Siliguri,Maharashtra,2024-05-03,Graduate,LinkedIn
+253,Student0253,Roy,student0253@example.com,Mumbai,Maharashtra,2025-03-08,Postgraduate,Referral
+254,Student0254,Das,student0254@example.com,Kolkata,Telangana,2024-01-10,Diploma,Google Ads
+255,Student0255,Singh,student0255@example.com,Delhi,Delhi,2024-06-25,Undergraduate,LinkedIn
+256,Student0256,Singh,student0256@example.com,Bengaluru,Karnataka,2024-11-11,Diploma,Webinar
+257,Student0257,Roy,student0257@example.com,Siliguri,Karnataka,2025-03-18,Diploma,Google Ads
+258,Student0258,Patel,student0258@example.com,Jaipur,Maharashtra,2024-08-08,Undergraduate,Instagram
+259,Student0259,Sharma,student0259@example.com,Siliguri,Delhi,2024-09-01,Undergraduate,LinkedIn
+260,Student0260,Singh,student0260@example.com,Delhi,Delhi,2024-03-22,Postgraduate,Google Ads
+261,Student0261,Singh,student0261@example.com,Jaipur,Karnataka,2025-09-29,Graduate,Google Ads
+262,Student0262,Das,student0262@example.com,Kolkata,Maharashtra,2024-10-24,Diploma,Google Ads
+263,Student0263,Singh,student0263@example.com,Hyderabad,Maharashtra,2024-03-09,Diploma,Organic
+264,Student0264,Sharma,student0264@example.com,Siliguri,West Bengal,2024-05-02,Postgraduate,LinkedIn
+265,Student0265,Patel,student0265@example.com,Pune,Delhi,2024-11-29,Undergraduate,Webinar
+266,Student0266,Sharma,student0266@example.com,Kolkata,Maharashtra,2025-11-20,Postgraduate,Webinar
+267,Student0267,Singh,student0267@example.com,Bengaluru,Karnataka,2024-10-07,Graduate,Webinar
+268,Student0268,Sharma,student0268@example.com,Bengaluru,Karnataka,2024-05-11,Graduate,LinkedIn
+269,Student0269,Das,student0269@example.com,Pune,Karnataka,2025-02-04,Graduate,Instagram
+270,Student0270,Das,student0270@example.com,Siliguri,West Bengal,2025-07-26,Graduate,Instagram
+271,Student0271,Sharma,student0271@example.com,Delhi,West Bengal,2024-02-13,Graduate,Referral
+272,Student0272,Das,student0272@example.com,Siliguri,Karnataka,2024-02-22,Graduate,LinkedIn
+273,Student0273,Roy,student0273@example.com,Jaipur,Delhi,2025-08-31,Postgraduate,Organic
+274,Student0274,Singh,student0274@example.com,Kolkata,Delhi,2025-01-17,Graduate,Google Ads
+275,Student0275,Patel,student0275@example.com,Jaipur,Karnataka,2025-06-21,Graduate,Referral
+276,Student0276,Das,student0276@example.com,Siliguri,Maharashtra,2025-02-13,Diploma,LinkedIn
+277,Student0277,Das,student0277@example.com,Siliguri,West Bengal,2024-12-30,Postgraduate,Organic
+278,Student0278,Patel,student0278@example.com,Mumbai,West Bengal,2024-09-08,Graduate,Google Ads
+279,Student0279,Roy,student0279@example.com,Kolkata,West Bengal,2024-01-06,Undergraduate,LinkedIn
+280,Student0280,Roy,student0280@example.com,Jaipur,West Bengal,2025-02-03,Diploma,Referral
+281,Student0281,Sharma,student0281@example.com,Pune,Delhi,2024-04-10,Postgraduate,Organic
+282,Student0282,Roy,student0282@example.com,Hyderabad,Karnataka,2024-03-24,Graduate,Webinar
+283,Student0283,Roy,student0283@example.com,Jaipur,Karnataka,2024-04-05,Graduate,Google Ads
+284,Student0284,Patel,student0284@example.com,Delhi,Telangana,2025-05-25,Postgraduate,LinkedIn
+285,Student0285,Patel,student0285@example.com,Siliguri,Delhi,2025-08-31,Postgraduate,Referral
+286,Student0286,Roy,student0286@example.com,Jaipur,West Bengal,2024-03-03,Diploma,Organic
+287,Student0287,Patel,student0287@example.com,Siliguri,Delhi,2025-01-11,Graduate,Google Ads
+288,Student0288,Das,student0288@example.com,Hyderabad,Karnataka,2025-05-15,Undergraduate,Google Ads
+289,Student0289,Patel,student0289@example.com,Pune,West Bengal,2024-09-23,Diploma,Referral
+290,Student0290,Sharma,student0290@example.com,Siliguri,Karnataka,2024-08-23,Diploma,Referral
+291,Student0291,Roy,student0291@example.com,Pune,Telangana,2025-06-14,Diploma,LinkedIn
+292,Student0292,Patel,student0292@example.com,Siliguri,Delhi,2024-09-17,Undergraduate,Organic
+293,Student0293,Roy,student0293@example.com,Hyderabad,Maharashtra,2025-04-11,Postgraduate,Instagram
+294,Student0294,Singh,student0294@example.com,Delhi,Telangana,2025-02-20,Postgraduate,Webinar
+295,Student0295,Patel,student0295@example.com,Delhi,West Bengal,2024-01-26,Postgraduate,Instagram
+296,Student0296,Roy,student0296@example.com,Delhi,West Bengal,2024-11-13,Undergraduate,LinkedIn
+297,Student0297,Roy,student0297@example.com,Mumbai,Karnataka,2025-02-17,Graduate,Instagram
+298,Student0298,Sharma,student0298@example.com,Kolkata,Karnataka,2025-08-31,Graduate,Instagram
+299,Student0299,Patel,student0299@example.com,Jaipur,West Bengal,2024-05-02,Undergraduate,Organic
+300,Student0300,Das,student0300@example.com,Jaipur,Telangana,2024-11-16,Graduate,Organic
+301,Student0301,Roy,student0301@example.com,Delhi,Maharashtra,2024-08-26,Postgraduate,Referral
+302,Student0302,Sharma,student0302@example.com,Hyderabad,Delhi,2025-08-28,Diploma,Webinar
+303,Student0303,Singh,student0303@example.com,Hyderabad,West Bengal,2024-05-23,Postgraduate,Organic
+304,Student0304,Singh,student0304@example.com,Siliguri,Delhi,2025-08-25,Graduate,LinkedIn
+305,Student0305,Sharma,student0305@example.com,Hyderabad,West Bengal,2025-06-25,Diploma,Organic
+306,Student0306,Roy,student0306@example.com,Delhi,Delhi,2024-01-21,Diploma,Instagram
+307,Student0307,Singh,student0307@example.com,Pune,Delhi,2025-08-16,Undergraduate,LinkedIn
+308,Student0308,Singh,student0308@example.com,Bengaluru,Karnataka,2024-05-09,Undergraduate,Google Ads
+309,Student0309,Das,student0309@example.com,Mumbai,Maharashtra,2024-02-04,Graduate,Organic
+310,Student0310,Singh,student0310@example.com,Mumbai,Karnataka,2024-02-24,Graduate,Instagram
+311,Student0311,Das,student0311@example.com,Siliguri,Delhi,2025-04-30,Undergraduate,LinkedIn
+312,Student0312,Sharma,student0312@example.com,Siliguri,Karnataka,2024-08-29,Undergraduate,Webinar
+313,Student0313,Das,student0313@example.com,Hyderabad,Telangana,2025-01-10,Graduate,Organic
+314,Student0314,Sharma,student0314@example.com,Mumbai,West Bengal,2024-11-28,Diploma,Organic
+315,Student0315,Roy,student0315@example.com,Kolkata,Delhi,2024-02-12,Postgraduate,Google Ads
+316,Student0316,Roy,student0316@example.com,Siliguri,Maharashtra,2024-01-02,Postgraduate,Organic
+317,Student0317,Das,student0317@example.com,Siliguri,Maharashtra,2025-01-11,Postgraduate,Webinar
+318,Student0318,Sharma,student0318@example.com,Siliguri,Telangana,2025-10-29,Postgraduate,Google Ads
+319,Student0319,Patel,student0319@example.com,Kolkata,Telangana,2024-04-28,Postgraduate,LinkedIn
+320,Student0320,Singh,student0320@example.com,Siliguri,Delhi,2025-06-05,Undergraduate,LinkedIn
+321,Student0321,Roy,student0321@example.com,Delhi,Delhi,2024-04-26,Postgraduate,Instagram
+322,Student0322,Singh,student0322@example.com,Mumbai,Karnataka,2025-06-18,Diploma,Referral
+323,Student0323,Das,student0323@example.com,Bengaluru,West Bengal,2025-02-09,Undergraduate,Google Ads
+324,Student0324,Sharma,student0324@example.com,Hyderabad,Telangana,2024-06-24,Undergraduate,Google Ads
+325,Student0325,Roy,student0325@example.com,Bengaluru,Delhi,2025-11-26,Diploma,Referral
+326,Student0326,Das,student0326@example.com,Delhi,Telangana,2024-10-02,Diploma,Google Ads
+327,Student0327,Singh,student0327@example.com,Hyderabad,Karnataka,2024-09-18,Graduate,Google Ads
+328,Student0328,Das,student0328@example.com,Mumbai,Telangana,2025-04-23,Postgraduate,Referral
+329,Student0329,Sharma,student0329@example.com,Pune,West Bengal,2024-02-22,Undergraduate,Webinar
+330,Student0330,Sharma,student0330@example.com,Jaipur,West Bengal,2025-02-07,Diploma,Organic
+331,Student0331,Singh,student0331@example.com,Bengaluru,Delhi,2024-12-11,Postgraduate,LinkedIn
+332,Student0332,Singh,student0332@example.com,Delhi,Karnataka,2025-06-05,Diploma,Referral
+333,Student0333,Das,student0333@example.com,Hyderabad,Maharashtra,2024-04-21,Undergraduate,Google Ads
+334,Student0334,Patel,student0334@example.com,Bengaluru,West Bengal,2025-02-13,Postgraduate,Referral
+335,Student0335,Das,student0335@example.com,Pune,Karnataka,2024-07-01,Postgraduate,LinkedIn
+336,Student0336,Singh,student0336@example.com,Kolkata,Karnataka,2025-03-06,Undergraduate,Referral
+337,Student0337,Patel,student0337@example.com,Hyderabad,Maharashtra,2025-05-30,Graduate,Referral
+338,Student0338,Patel,student0338@example.com,Kolkata,Karnataka,2024-11-05,Postgraduate,Organic
+339,Student0339,Roy,student0339@example.com,Hyderabad,Delhi,2025-11-08,Postgraduate,Organic
+340,Student0340,Patel,student0340@example.com,Jaipur,Karnataka,2025-08-17,Undergraduate,LinkedIn
+341,Student0341,Singh,student0341@example.com,Siliguri,West Bengal,2025-09-23,Graduate,Organic
+342,Student0342,Patel,student0342@example.com,Jaipur,Karnataka,2025-08-05,Graduate,Organic
+343,Student0343,Patel,student0343@example.com,Delhi,Delhi,2024-06-29,Graduate,Referral
+344,Student0344,Das,student0344@example.com,Hyderabad,Telangana,2024-01-18,Postgraduate,Webinar
+345,Student0345,Sharma,student0345@example.com,Bengaluru,Delhi,2025-06-17,Diploma,Webinar
+346,Student0346,Das,student0346@example.com,Hyderabad,Delhi,2024-05-26,Undergraduate,Google Ads
+347,Student0347,Das,student0347@example.com,Jaipur,Karnataka,2024-08-10,Undergraduate,Referral
+348,Student0348,Sharma,student0348@example.com,Mumbai,Delhi,2025-01-29,Postgraduate,Organic
+349,Student0349,Singh,student0349@example.com,Jaipur,Karnataka,2025-03-18,Postgraduate,Organic
+350,Student0350,Das,student0350@example.com,Pune,Delhi,2024-10-20,Undergraduate,Google Ads
+351,Student0351,Patel,student0351@example.com,Hyderabad,Karnataka,2025-03-28,Postgraduate,Instagram
+352,Student0352,Roy,student0352@example.com,Siliguri,Telangana,2024-12-25,Graduate,LinkedIn
+353,Student0353,Roy,student0353@example.com,Siliguri,Delhi,2024-08-09,Diploma,Instagram
+354,Student0354,Patel,student0354@example.com,Hyderabad,Telangana,2025-02-09,Postgraduate,LinkedIn
+355,Student0355,Das,student0355@example.com,Mumbai,Telangana,2025-04-21,Postgraduate,Organic
+356,Student0356,Patel,student0356@example.com,Bengaluru,Karnataka,2024-06-25,Graduate,Google Ads
+357,Student0357,Das,student0357@example.com,Delhi,Telangana,2025-11-11,Undergraduate,LinkedIn
+358,Student0358,Roy,student0358@example.com,Kolkata,Karnataka,2025-09-22,Undergraduate,LinkedIn
+359,Student0359,Singh,student0359@example.com,Pune,Karnataka,2024-12-10,Postgraduate,Referral
+360,Student0360,Singh,student0360@example.com,Hyderabad,Delhi,2024-04-09,Undergraduate,Google Ads
+361,Student0361,Singh,student0361@example.com,Kolkata,Karnataka,2024-06-03,Undergraduate,Google Ads
+362,Student0362,Das,student0362@example.com,Siliguri,Maharashtra,2024-01-04,Undergraduate,Webinar
+363,Student0363,Singh,student0363@example.com,Kolkata,Telangana,2024-10-20,Diploma,Google Ads
+364,Student0364,Patel,student0364@example.com,Bengaluru,Maharashtra,2025-10-11,Graduate,Organic
+365,Student0365,Sharma,student0365@example.com,Pune,West Bengal,2025-04-14,Undergraduate,Webinar
+366,Student0366,Das,student0366@example.com,Siliguri,Delhi,2024-04-29,Postgraduate,Organic
+367,Student0367,Singh,student0367@example.com,Kolkata,Maharashtra,2025-01-16,Graduate,Webinar
+368,Student0368,Singh,student0368@example.com,Siliguri,Telangana,2024-07-21,Undergraduate,Instagram
+369,Student0369,Singh,student0369@example.com,Siliguri,West Bengal,2025-09-28,Graduate,Organic
+370,Student0370,Patel,student0370@example.com,Pune,Maharashtra,2024-04-27,Undergraduate,Google Ads
+371,Student0371,Das,student0371@example.com,Pune,West Bengal,2025-01-22,Undergraduate,Referral
+372,Student0372,Roy,student0372@example.com,Delhi,West Bengal,2024-12-22,Graduate,Instagram
+373,Student0373,Sharma,student0373@example.com,Bengaluru,Telangana,2024-06-24,Graduate,Instagram
+374,Student0374,Roy,student0374@example.com,Siliguri,Telangana,2025-09-16,Graduate,Google Ads
+375,Student0375,Patel,student0375@example.com,Pune,Delhi,2025-08-22,Graduate,Google Ads
+376,Student0376,Roy,student0376@example.com,Jaipur,Delhi,2024-07-02,Postgraduate,Instagram
+377,Student0377,Patel,student0377@example.com,Jaipur,Telangana,2025-01-26,Undergraduate,Organic
+378,Student0378,Patel,student0378@example.com,Pune,Maharashtra,2025-03-03,Postgraduate,Google Ads
+379,Student0379,Sharma,student0379@example.com,Bengaluru,Telangana,2025-04-17,Graduate,Google Ads
+380,Student0380,Sharma,student0380@example.com,Kolkata,Karnataka,2025-08-19,Undergraduate,Google Ads
+381,Student0381,Sharma,student0381@example.com,Hyderabad,Delhi,2025-06-18,Undergraduate,LinkedIn
+382,Student0382,Sharma,student0382@example.com,Pune,Karnataka,2025-06-30,Graduate,Webinar
+383,Student0383,Roy,student0383@example.com,Bengaluru,West Bengal,2025-03-07,Undergraduate,Referral
+384,Student0384,Roy,student0384@example.com,Pune,Karnataka,2024-03-24,Undergraduate,Organic
+385,Student0385,Patel,student0385@example.com,Bengaluru,Delhi,2025-02-24,Diploma,Instagram
+386,Student0386,Patel,student0386@example.com,Siliguri,Maharashtra,2025-01-30,Postgraduate,LinkedIn
+387,Student0387,Singh,student0387@example.com,Siliguri,Maharashtra,2024-03-17,Postgraduate,Instagram
+388,Student0388,Singh,student0388@example.com,Bengaluru,Karnataka,2024-01-29,Diploma,Referral
+389,Student0389,Roy,student0389@example.com,Hyderabad,Telangana,2025-01-30,Graduate,Webinar
+390,Student0390,Sharma,student0390@example.com,Bengaluru,West Bengal,2024-01-12,Diploma,Organic
+391,Student0391,Sharma,student0391@example.com,Kolkata,Karnataka,2024-08-24,Undergraduate,Referral
+392,Student0392,Das,student0392@example.com,Bengaluru,Delhi,2024-08-21,Undergraduate,Google Ads
+393,Student0393,Das,student0393@example.com,Kolkata,Karnataka,2025-02-16,Undergraduate,Referral
+394,Student0394,Patel,student0394@example.com,Siliguri,Karnataka,2025-03-24,Postgraduate,Instagram
+395,Student0395,Singh,student0395@example.com,Hyderabad,Maharashtra,2024-10-13,Graduate,LinkedIn
+396,Student0396,Das,student0396@example.com,Delhi,Telangana,2024-05-30,Undergraduate,Webinar
+397,Student0397,Roy,student0397@example.com,Pune,Telangana,2024-12-11,Graduate,LinkedIn
+398,Student0398,Sharma,student0398@example.com,Jaipur,Telangana,2025-11-21,Diploma,Webinar
+399,Student0399,Singh,student0399@example.com,Hyderabad,Telangana,2024-03-06,Diploma,Webinar
+400,Student0400,Patel,student0400@example.com,Hyderabad,West Bengal,2024-09-16,Diploma,Webinar
+401,Student0401,Patel,student0401@example.com,Pune,Maharashtra,2025-04-14,Diploma,Google Ads
+402,Student0402,Singh,student0402@example.com,Kolkata,Maharashtra,2025-02-25,Undergraduate,Google Ads
+403,Student0403,Patel,student0403@example.com,Mumbai,Karnataka,2025-10-18,Diploma,Organic
+404,Student0404,Patel,student0404@example.com,Jaipur,Telangana,2025-07-07,Undergraduate,LinkedIn
+405,Student0405,Singh,student0405@example.com,Delhi,Maharashtra,2024-03-12,Undergraduate,Webinar
+406,Student0406,Das,student0406@example.com,Jaipur,Karnataka,2025-04-11,Undergraduate,Webinar
+407,Student0407,Singh,student0407@example.com,Bengaluru,West Bengal,2024-07-23,Postgraduate,LinkedIn
+408,Student0408,Das,student0408@example.com,Siliguri,Karnataka,2024-01-14,Postgraduate,LinkedIn
+409,Student0409,Das,student0409@example.com,Mumbai,Maharashtra,2025-09-23,Diploma,Google Ads
+410,Student0410,Sharma,student0410@example.com,Kolkata,Karnataka,2024-02-02,Diploma,Referral
+411,Student0411,Sharma,student0411@example.com,Bengaluru,Maharashtra,2025-06-02,Diploma,Webinar
+412,Student0412,Das,student0412@example.com,Siliguri,Karnataka,2024-03-30,Postgraduate,Webinar
+413,Student0413,Patel,student0413@example.com,Mumbai,Delhi,2024-08-06,Diploma,Organic
+414,Student0414,Sharma,student0414@example.com,Pune,West Bengal,2025-05-08,Undergraduate,LinkedIn
+415,Student0415,Das,student0415@example.com,Siliguri,Maharashtra,2024-11-23,Postgraduate,Referral
+416,Student0416,Patel,student0416@example.com,Jaipur,Delhi,2025-10-12,Diploma,Referral
+417,Student0417,Sharma,student0417@example.com,Jaipur,West Bengal,2025-05-07,Undergraduate,Referral
+418,Student0418,Roy,student0418@example.com,Mumbai,West Bengal,2024-07-19,Postgraduate,Google Ads
+419,Student0419,Roy,student0419@example.com,Jaipur,Karnataka,2025-01-14,Graduate,LinkedIn
+420,Student0420,Singh,student0420@example.com,Bengaluru,Maharashtra,2024-06-26,Graduate,Google Ads
+421,Student0421,Das,student0421@example.com,Hyderabad,Maharashtra,2024-08-16,Postgraduate,Webinar
+422,Student0422,Sharma,student0422@example.com,Mumbai,West Bengal,2024-06-12,Undergraduate,LinkedIn
+423,Student0423,Sharma,student0423@example.com,Siliguri,Telangana,2024-07-20,Postgraduate,Webinar
+424,Student0424,Sharma,student0424@example.com,Pune,Karnataka,2024-04-13,Undergraduate,Google Ads
+425,Student0425,Sharma,student0425@example.com,Hyderabad,Karnataka,2024-03-16,Postgraduate,Instagram
+426,Student0426,Das,student0426@example.com,Delhi,Maharashtra,2025-04-27,Postgraduate,Organic
+427,Student0427,Roy,student0427@example.com,Hyderabad,Maharashtra,2024-11-01,Graduate,Organic
+428,Student0428,Singh,student0428@example.com,Delhi,Karnataka,2025-11-25,Undergraduate,Webinar
+429,Student0429,Sharma,student0429@example.com,Kolkata,Delhi,2024-08-28,Diploma,Organic
+430,Student0430,Sharma,student0430@example.com,Delhi,Telangana,2024-02-19,Diploma,Google Ads
+431,Student0431,Sharma,student0431@example.com,Hyderabad,West Bengal,2025-08-17,Undergraduate,Google Ads
+432,Student0432,Patel,student0432@example.com,Mumbai,West Bengal,2024-04-05,Graduate,Instagram
+433,Student0433,Singh,student0433@example.com,Siliguri,Maharashtra,2024-02-07,Diploma,Google Ads
+434,Student0434,Sharma,student0434@example.com,Jaipur,Delhi,2025-01-08,Postgraduate,LinkedIn
+435,Student0435,Patel,student0435@example.com,Mumbai,West Bengal,2024-09-30,Postgraduate,LinkedIn
+436,Student0436,Sharma,student0436@example.com,Bengaluru,Telangana,2025-02-13,Graduate,Webinar
+437,Student0437,Patel,student0437@example.com,Delhi,Delhi,2025-08-25,Postgraduate,Webinar
+438,Student0438,Roy,student0438@example.com,Kolkata,Maharashtra,2024-09-30,Graduate,Instagram
+439,Student0439,Das,student0439@example.com,Delhi,Delhi,2025-03-10,Diploma,Google Ads
+440,Student0440,Roy,student0440@example.com,Pune,Maharashtra,2024-11-28,Postgraduate,Google Ads
+441,Student0441,Singh,student0441@example.com,Bengaluru,Maharashtra,2024-10-17,Undergraduate,Organic
+442,Student0442,Patel,student0442@example.com,Pune,Maharashtra,2025-09-07,Postgraduate,Instagram
+443,Student0443,Roy,student0443@example.com,Siliguri,Karnataka,2025-09-15,Graduate,Instagram
+444,Student0444,Singh,student0444@example.com,Siliguri,Delhi,2024-07-17,Diploma,LinkedIn
+445,Student0445,Roy,student0445@example.com,Jaipur,Maharashtra,2024-01-12,Postgraduate,Referral
+446,Student0446,Das,student0446@example.com,Pune,Karnataka,2025-06-06,Diploma,Organic
+447,Student0447,Das,student0447@example.com,Mumbai,Karnataka,2024-12-01,Diploma,Organic
+448,Student0448,Sharma,student0448@example.com,Mumbai,Telangana,2024-05-28,Postgraduate,Google Ads
+449,Student0449,Sharma,student0449@example.com,Mumbai,Karnataka,2025-04-29,Graduate,Instagram
+450,Student0450,Roy,student0450@example.com,Kolkata,Telangana,2025-04-27,Graduate,Webinar
+451,Student0451,Patel,student0451@example.com,Hyderabad,Delhi,2024-02-19,Diploma,Referral
+452,Student0452,Roy,student0452@example.com,Hyderabad,Maharashtra,2024-08-19,Undergraduate,Google Ads
+453,Student0453,Singh,student0453@example.com,Bengaluru,Delhi,2024-06-11,Diploma,Instagram
+454,Student0454,Das,student0454@example.com,Bengaluru,Delhi,2025-07-18,Graduate,Organic
+455,Student0455,Das,student0455@example.com,Jaipur,Delhi,2024-10-23,Diploma,Organic
+456,Student0456,Roy,student0456@example.com,Delhi,Maharashtra,2024-10-09,Graduate,Google Ads
+457,Student0457,Das,student0457@example.com,Hyderabad,Maharashtra,2024-06-02,Diploma,Referral
+458,Student0458,Sharma,student0458@example.com,Delhi,Karnataka,2025-04-02,Graduate,Google Ads
+459,Student0459,Das,student0459@example.com,Pune,Telangana,2025-07-29,Postgraduate,Webinar
+460,Student0460,Roy,student0460@example.com,Kolkata,Karnataka,2024-08-12,Diploma,Organic
+461,Student0461,Das,student0461@example.com,Mumbai,West Bengal,2025-09-09,Diploma,Google Ads
+462,Student0462,Das,student0462@example.com,Hyderabad,West Bengal,2025-05-25,Graduate,Referral
+463,Student0463,Singh,student0463@example.com,Jaipur,Karnataka,2025-09-01,Undergraduate,Google Ads
+464,Student0464,Patel,student0464@example.com,Jaipur,Telangana,2025-04-04,Postgraduate,Referral
+465,Student0465,Patel,student0465@example.com,Siliguri,Karnataka,2025-03-17,Diploma,Instagram
+466,Student0466,Das,student0466@example.com,Mumbai,Maharashtra,2025-03-18,Postgraduate,LinkedIn
+467,Student0467,Sharma,student0467@example.com,Hyderabad,Karnataka,2025-02-02,Graduate,LinkedIn
+468,Student0468,Patel,student0468@example.com,Mumbai,Karnataka,2025-03-22,Undergraduate,Google Ads
+469,Student0469,Sharma,student0469@example.com,Siliguri,Maharashtra,2025-04-15,Undergraduate,Referral
+470,Student0470,Roy,student0470@example.com,Mumbai,Delhi,2025-05-02,Diploma,Google Ads
+471,Student0471,Roy,student0471@example.com,Hyderabad,Karnataka,2025-11-14,Postgraduate,Organic
+472,Student0472,Sharma,student0472@example.com,Hyderabad,West Bengal,2024-11-08,Graduate,Organic
+473,Student0473,Roy,student0473@example.com,Mumbai,West Bengal,2025-06-02,Diploma,Webinar
+474,Student0474,Das,student0474@example.com,Pune,Maharashtra,2024-07-07,Graduate,Instagram
+475,Student0475,Sharma,student0475@example.com,Siliguri,Maharashtra,2025-10-17,Postgraduate,LinkedIn
+476,Student0476,Singh,student0476@example.com,Jaipur,West Bengal,2024-04-15,Diploma,Webinar
+477,Student0477,Sharma,student0477@example.com,Mumbai,West Bengal,2024-10-21,Diploma,LinkedIn
+478,Student0478,Singh,student0478@example.com,Pune,West Bengal,2025-03-05,Postgraduate,Referral
+479,Student0479,Sharma,student0479@example.com,Pune,Maharashtra,2024-06-11,Diploma,Google Ads
+480,Student0480,Singh,student0480@example.com,Bengaluru,Karnataka,2024-04-24,Postgraduate,Instagram
+481,Student0481,Das,student0481@example.com,Kolkata,West Bengal,2025-03-01,Postgraduate,Organic
+482,Student0482,Roy,student0482@example.com,Hyderabad,Karnataka,2025-11-03,Postgraduate,Referral
+483,Student0483,Singh,student0483@example.com,Mumbai,Karnataka,2025-09-03,Diploma,Instagram
+484,Student0484,Singh,student0484@example.com,Hyderabad,Telangana,2025-03-13,Diploma,Organic
+485,Student0485,Patel,student0485@example.com,Jaipur,Delhi,2025-01-21,Graduate,Referral
+486,Student0486,Patel,student0486@example.com,Siliguri,Telangana,2024-10-05,Undergraduate,Organic
+487,Student0487,Patel,student0487@example.com,Mumbai,Karnataka,2025-09-25,Diploma,Google Ads
+488,Student0488,Singh,student0488@example.com,Delhi,Delhi,2025-09-17,Undergraduate,Google Ads
+489,Student0489,Patel,student0489@example.com,Kolkata,West Bengal,2025-10-19,Undergraduate,Referral
+490,Student0490,Patel,student0490@example.com,Bengaluru,Telangana,2024-04-26,Graduate,Referral
+491,Student0491,Roy,student0491@example.com,Hyderabad,Telangana,2025-07-17,Undergraduate,Google Ads
+492,Student0492,Sharma,student0492@example.com,Mumbai,Telangana,2024-02-06,Diploma,Google Ads
+493,Student0493,Das,student0493@example.com,Delhi,Maharashtra,2024-10-31,Postgraduate,Organic
+494,Student0494,Singh,student0494@example.com,Kolkata,Karnataka,2025-08-05,Diploma,LinkedIn
+495,Student0495,Singh,student0495@example.com,Pune,Delhi,2025-07-01,Undergraduate,Organic
+496,Student0496,Das,student0496@example.com,Bengaluru,Karnataka,2025-08-31,Graduate,Webinar
+497,Student0497,Singh,student0497@example.com,Siliguri,Delhi,2025-04-05,Diploma,Google Ads
+498,Student0498,Sharma,student0498@example.com,Jaipur,Telangana,2024-02-15,Graduate,Referral
+499,Student0499,Roy,student0499@example.com,Hyderabad,Delhi,2024-06-21,Undergraduate,Webinar
+500,Student0500,Das,student0500@example.com,Jaipur,West Bengal,2024-07-05,Diploma,Webinar
+501,Student0501,Singh,student0501@example.com,Bengaluru,Maharashtra,2025-06-01,Undergraduate,Webinar
+502,Student0502,Roy,student0502@example.com,Bengaluru,Maharashtra,2025-11-20,Postgraduate,LinkedIn
+503,Student0503,Sharma,student0503@example.com,Kolkata,Maharashtra,2024-06-17,Postgraduate,Google Ads
+504,Student0504,Patel,student0504@example.com,Jaipur,Karnataka,2024-03-27,Graduate,Google Ads
+505,Student0505,Sharma,student0505@example.com,Mumbai,Telangana,2024-07-20,Graduate,Referral
+506,Student0506,Das,student0506@example.com,Hyderabad,Telangana,2024-06-08,Postgraduate,Webinar
+507,Student0507,Sharma,student0507@example.com,Hyderabad,Telangana,2025-09-30,Graduate,Instagram
+508,Student0508,Roy,student0508@example.com,Siliguri,West Bengal,2025-03-21,Undergraduate,Webinar
+509,Student0509,Das,student0509@example.com,Mumbai,Maharashtra,2024-04-25,Postgraduate,Google Ads
+510,Student0510,Patel,student0510@example.com,Jaipur,Maharashtra,2025-05-04,Postgraduate,Organic
+511,Student0511,Sharma,student0511@example.com,Kolkata,Delhi,2024-02-03,Diploma,Instagram
+512,Student0512,Sharma,student0512@example.com,Jaipur,Maharashtra,2025-04-09,Diploma,Webinar
+513,Student0513,Das,student0513@example.com,Siliguri,West Bengal,2024-03-25,Graduate,Organic
+514,Student0514,Roy,student0514@example.com,Delhi,West Bengal,2024-05-17,Postgraduate,Organic
+515,Student0515,Sharma,student0515@example.com,Bengaluru,Karnataka,2025-03-16,Diploma,Organic
+516,Student0516,Roy,student0516@example.com,Jaipur,Karnataka,2024-05-09,Postgraduate,Webinar
+517,Student0517,Roy,student0517@example.com,Kolkata,Maharashtra,2025-05-15,Undergraduate,LinkedIn
+518,Student0518,Das,student0518@example.com,Hyderabad,West Bengal,2024-07-25,Graduate,Google Ads
+519,Student0519,Roy,student0519@example.com,Mumbai,Karnataka,2024-11-15,Diploma,Organic
+520,Student0520,Das,student0520@example.com,Delhi,West Bengal,2024-02-02,Postgraduate,Instagram
+521,Student0521,Singh,student0521@example.com,Hyderabad,Karnataka,2024-02-21,Graduate,LinkedIn
+522,Student0522,Sharma,student0522@example.com,Pune,Telangana,2024-01-11,Postgraduate,Instagram
+523,Student0523,Patel,student0523@example.com,Delhi,Maharashtra,2024-06-04,Graduate,Referral
+524,Student0524,Das,student0524@example.com,Siliguri,Maharashtra,2025-11-19,Diploma,Google Ads
+525,Student0525,Singh,student0525@example.com,Siliguri,Delhi,2025-04-01,Diploma,Google Ads
+526,Student0526,Sharma,student0526@example.com,Siliguri,Delhi,2024-05-17,Graduate,Organic
+527,Student0527,Singh,student0527@example.com,Delhi,West Bengal,2024-10-04,Postgraduate,LinkedIn
+528,Student0528,Patel,student0528@example.com,Mumbai,Delhi,2024-12-11,Diploma,Organic
+529,Student0529,Roy,student0529@example.com,Mumbai,Telangana,2025-01-19,Postgraduate,Webinar
+530,Student0530,Das,student0530@example.com,Kolkata,West Bengal,2024-12-02,Postgraduate,Webinar
+531,Student0531,Patel,student0531@example.com,Delhi,Maharashtra,2024-10-28,Undergraduate,LinkedIn
+532,Student0532,Sharma,student0532@example.com,Mumbai,West Bengal,2024-05-05,Postgraduate,Google Ads
+533,Student0533,Singh,student0533@example.com,Delhi,West Bengal,2025-04-28,Graduate,Webinar
+534,Student0534,Sharma,student0534@example.com,Jaipur,Telangana,2024-09-06,Diploma,Organic
+535,Student0535,Sharma,student0535@example.com,Mumbai,West Bengal,2025-09-18,Undergraduate,Google Ads
+536,Student0536,Das,student0536@example.com,Siliguri,West Bengal,2024-05-26,Graduate,Referral
+537,Student0537,Singh,student0537@example.com,Delhi,Telangana,2025-06-05,Undergraduate,Google Ads
+538,Student0538,Das,student0538@example.com,Pune,Karnataka,2024-02-05,Diploma,LinkedIn
+539,Student0539,Singh,student0539@example.com,Siliguri,West Bengal,2024-04-18,Postgraduate,Instagram
+540,Student0540,Das,student0540@example.com,Hyderabad,Telangana,2024-04-13,Undergraduate,Google Ads
+541,Student0541,Sharma,student0541@example.com,Bengaluru,West Bengal,2024-12-24,Undergraduate,Referral
+542,Student0542,Patel,student0542@example.com,Mumbai,Maharashtra,2024-02-25,Graduate,Webinar
+543,Student0543,Roy,student0543@example.com,Bengaluru,Delhi,2025-07-02,Undergraduate,Webinar
+544,Student0544,Das,student0544@example.com,Kolkata,Karnataka,2024-03-06,Graduate,Organic
+545,Student0545,Singh,student0545@example.com,Bengaluru,Telangana,2024-09-26,Postgraduate,Organic
+546,Student0546,Das,student0546@example.com,Bengaluru,Telangana,2024-10-26,Graduate,Webinar
+547,Student0547,Sharma,student0547@example.com,Mumbai,Maharashtra,2024-01-24,Graduate,Organic
+548,Student0548,Das,student0548@example.com,Hyderabad,Maharashtra,2025-08-02,Postgraduate,Organic
+549,Student0549,Roy,student0549@example.com,Bengaluru,Karnataka,2024-02-12,Undergraduate,LinkedIn
+550,Student0550,Roy,student0550@example.com,Bengaluru,West Bengal,2024-01-03,Diploma,Referral
+551,Student0551,Das,student0551@example.com,Pune,Delhi,2024-10-19,Undergraduate,Webinar
+552,Student0552,Singh,student0552@example.com,Kolkata,Maharashtra,2025-04-30,Postgraduate,LinkedIn
+553,Student0553,Sharma,student0553@example.com,Hyderabad,Delhi,2025-01-27,Graduate,Organic
+554,Student0554,Das,student0554@example.com,Kolkata,Telangana,2024-04-24,Diploma,Google Ads
+555,Student0555,Das,student0555@example.com,Jaipur,West Bengal,2024-08-18,Graduate,Instagram
+556,Student0556,Das,student0556@example.com,Pune,Delhi,2025-10-22,Diploma,Webinar
+557,Student0557,Das,student0557@example.com,Siliguri,Karnataka,2024-04-10,Postgraduate,Referral
+558,Student0558,Singh,student0558@example.com,Delhi,Delhi,2024-05-06,Undergraduate,Instagram
+559,Student0559,Patel,student0559@example.com,Bengaluru,Telangana,2024-11-22,Graduate,Google Ads
+560,Student0560,Roy,student0560@example.com,Mumbai,West Bengal,2025-01-18,Postgraduate,Organic
+561,Student0561,Patel,student0561@example.com,Kolkata,West Bengal,2024-07-19,Postgraduate,Referral
+562,Student0562,Sharma,student0562@example.com,Kolkata,Telangana,2024-10-01,Graduate,Webinar
+563,Student0563,Patel,student0563@example.com,Pune,Delhi,2025-03-09,Diploma,Organic
+564,Student0564,Singh,student0564@example.com,Siliguri,Delhi,2025-01-24,Postgraduate,Google Ads
+565,Student0565,Singh,student0565@example.com,Pune,Karnataka,2025-09-09,Diploma,Webinar
+566,Student0566,Sharma,student0566@example.com,Siliguri,Karnataka,2025-08-19,Undergraduate,Referral
+567,Student0567,Roy,student0567@example.com,Delhi,West Bengal,2024-10-28,Graduate,Referral
+568,Student0568,Roy,student0568@example.com,Pune,Karnataka,2025-04-24,Undergraduate,Google Ads
+569,Student0569,Das,student0569@example.com,Kolkata,West Bengal,2025-11-29,Postgraduate,Organic
+570,Student0570,Sharma,student0570@example.com,Pune,Maharashtra,2024-08-07,Postgraduate,Google Ads
+571,Student0571,Patel,student0571@example.com,Jaipur,Maharashtra,2024-06-03,Graduate,Referral
+572,Student0572,Singh,student0572@example.com,Mumbai,Telangana,2025-04-24,Undergraduate,Google Ads
+573,Student0573,Sharma,student0573@example.com,Siliguri,Maharashtra,2024-01-18,Postgraduate,Webinar
+574,Student0574,Sharma,student0574@example.com,Hyderabad,Maharashtra,2024-04-15,Graduate,Organic
+575,Student0575,Sharma,student0575@example.com,Kolkata,Karnataka,2024-07-11,Undergraduate,Organic
+576,Student0576,Roy,student0576@example.com,Kolkata,Telangana,2024-06-18,Undergraduate,Referral
+577,Student0577,Patel,student0577@example.com,Kolkata,Delhi,2025-10-05,Diploma,LinkedIn
+578,Student0578,Sharma,student0578@example.com,Bengaluru,Karnataka,2024-10-21,Postgraduate,Instagram
+579,Student0579,Patel,student0579@example.com,Pune,Karnataka,2025-02-25,Postgraduate,Organic
+580,Student0580,Das,student0580@example.com,Pune,West Bengal,2024-08-01,Diploma,Instagram
+581,Student0581,Singh,student0581@example.com,Jaipur,Karnataka,2024-04-25,Undergraduate,Organic
+582,Student0582,Roy,student0582@example.com,Hyderabad,Maharashtra,2024-12-11,Graduate,Instagram
+583,Student0583,Das,student0583@example.com,Mumbai,Delhi,2025-03-26,Diploma,Webinar
+584,Student0584,Patel,student0584@example.com,Hyderabad,Maharashtra,2025-11-10,Postgraduate,Webinar
+585,Student0585,Sharma,student0585@example.com,Delhi,Delhi,2025-02-10,Diploma,Referral
+586,Student0586,Sharma,student0586@example.com,Mumbai,Maharashtra,2025-06-16,Postgraduate,Referral
+587,Student0587,Sharma,student0587@example.com,Hyderabad,West Bengal,2024-12-10,Postgraduate,Google Ads
+588,Student0588,Singh,student0588@example.com,Kolkata,Delhi,2025-08-24,Postgraduate,Referral
+589,Student0589,Patel,student0589@example.com,Hyderabad,West Bengal,2024-06-04,Postgraduate,Organic
+590,Student0590,Patel,student0590@example.com,Pune,Karnataka,2025-05-09,Graduate,Organic
+591,Student0591,Roy,student0591@example.com,Bengaluru,Telangana,2024-09-26,Graduate,Webinar
+592,Student0592,Sharma,student0592@example.com,Jaipur,Telangana,2025-06-09,Undergraduate,Google Ads
+593,Student0593,Roy,student0593@example.com,Delhi,Telangana,2025-10-22,Undergraduate,LinkedIn
+594,Student0594,Sharma,student0594@example.com,Mumbai,Delhi,2025-09-11,Postgraduate,Referral
+595,Student0595,Roy,student0595@example.com,Siliguri,West Bengal,2025-09-30,Undergraduate,Organic
+596,Student0596,Das,student0596@example.com,Jaipur,Telangana,2025-11-08,Graduate,Instagram
+597,Student0597,Singh,student0597@example.com,Jaipur,Maharashtra,2024-05-22,Postgraduate,Organic
+598,Student0598,Roy,student0598@example.com,Siliguri,Maharashtra,2025-02-25,Undergraduate,Instagram
+599,Student0599,Das,student0599@example.com,Mumbai,Maharashtra,2025-03-06,Postgraduate,Instagram
+600,Student0600,Patel,student0600@example.com,Pune,Telangana,2025-09-21,Diploma,Google Ads
+601,Student0601,Singh,student0601@example.com,Delhi,West Bengal,2024-09-19,Undergraduate,Google Ads
+602,Student0602,Patel,student0602@example.com,Pune,Telangana,2024-10-14,Diploma,Google Ads
+603,Student0603,Roy,student0603@example.com,Delhi,Delhi,2025-10-15,Diploma,Organic
+604,Student0604,Roy,student0604@example.com,Pune,Telangana,2025-02-26,Diploma,Instagram
+605,Student0605,Sharma,student0605@example.com,Pune,West Bengal,2025-01-25,Diploma,Organic
+606,Student0606,Sharma,student0606@example.com,Mumbai,Maharashtra,2024-07-28,Postgraduate,Referral
+607,Student0607,Singh,student0607@example.com,Mumbai,Karnataka,2025-07-13,Diploma,Instagram
+608,Student0608,Das,student0608@example.com,Kolkata,Karnataka,2025-07-11,Undergraduate,Organic
+609,Student0609,Roy,student0609@example.com,Pune,Telangana,2025-04-20,Diploma,Google Ads
+610,Student0610,Sharma,student0610@example.com,Delhi,Karnataka,2025-06-07,Graduate,Instagram
+611,Student0611,Patel,student0611@example.com,Siliguri,Delhi,2025-06-03,Graduate,Referral
+612,Student0612,Sharma,student0612@example.com,Siliguri,Telangana,2025-11-08,Diploma,Organic
+613,Student0613,Das,student0613@example.com,Kolkata,Maharashtra,2024-04-17,Postgraduate,Google Ads
+614,Student0614,Das,student0614@example.com,Kolkata,Karnataka,2025-08-05,Undergraduate,Organic
+615,Student0615,Roy,student0615@example.com,Mumbai,West Bengal,2024-09-24,Postgraduate,Google Ads
+616,Student0616,Das,student0616@example.com,Kolkata,Maharashtra,2024-03-31,Graduate,Google Ads
+617,Student0617,Sharma,student0617@example.com,Bengaluru,Maharashtra,2025-05-15,Diploma,Organic
+618,Student0618,Das,student0618@example.com,Hyderabad,Maharashtra,2025-05-12,Diploma,Referral
+619,Student0619,Roy,student0619@example.com,Siliguri,Telangana,2025-06-05,Undergraduate,Google Ads
+620,Student0620,Das,student0620@example.com,Bengaluru,Maharashtra,2024-09-10,Postgraduate,Organic
+621,Student0621,Sharma,student0621@example.com,Bengaluru,Maharashtra,2024-06-05,Graduate,Instagram
+622,Student0622,Das,student0622@example.com,Siliguri,Karnataka,2024-07-10,Undergraduate,Organic
+623,Student0623,Sharma,student0623@example.com,Bengaluru,Maharashtra,2025-01-13,Postgraduate,Organic
+624,Student0624,Roy,student0624@example.com,Kolkata,Maharashtra,2024-10-15,Diploma,Webinar
+625,Student0625,Patel,student0625@example.com,Kolkata,West Bengal,2025-05-14,Graduate,LinkedIn
+626,Student0626,Das,student0626@example.com,Pune,Karnataka,2024-11-18,Diploma,Instagram
+627,Student0627,Patel,student0627@example.com,Bengaluru,Telangana,2025-11-27,Diploma,Google Ads
+628,Student0628,Roy,student0628@example.com,Hyderabad,Karnataka,2024-02-21,Graduate,Webinar
+629,Student0629,Patel,student0629@example.com,Bengaluru,West Bengal,2025-03-02,Diploma,Webinar
+630,Student0630,Patel,student0630@example.com,Hyderabad,Telangana,2025-01-17,Graduate,LinkedIn
+631,Student0631,Singh,student0631@example.com,Bengaluru,Telangana,2024-02-15,Graduate,Webinar
+632,Student0632,Patel,student0632@example.com,Pune,West Bengal,2025-05-15,Graduate,Organic
+633,Student0633,Sharma,student0633@example.com,Hyderabad,Maharashtra,2024-12-31,Diploma,Google Ads
+634,Student0634,Sharma,student0634@example.com,Hyderabad,West Bengal,2025-07-13,Undergraduate,Referral
+635,Student0635,Sharma,student0635@example.com,Siliguri,Delhi,2024-07-22,Postgraduate,Referral
+636,Student0636,Sharma,student0636@example.com,Mumbai,Telangana,2025-06-18,Graduate,LinkedIn
+637,Student0637,Singh,student0637@example.com,Mumbai,Maharashtra,2025-09-21,Diploma,Referral
+638,Student0638,Patel,student0638@example.com,Hyderabad,West Bengal,2025-10-28,Undergraduate,Organic
+639,Student0639,Das,student0639@example.com,Bengaluru,Telangana,2025-11-01,Diploma,Instagram
+640,Student0640,Roy,student0640@example.com,Bengaluru,West Bengal,2024-03-28,Undergraduate,Referral
+641,Student0641,Roy,student0641@example.com,Kolkata,Delhi,2024-10-03,Postgraduate,Referral
+642,Student0642,Singh,student0642@example.com,Mumbai,Maharashtra,2024-02-26,Graduate,Webinar
+643,Student0643,Roy,student0643@example.com,Delhi,Karnataka,2024-02-06,Graduate,Webinar
+644,Student0644,Singh,student0644@example.com,Delhi,Maharashtra,2024-05-29,Postgraduate,Instagram
+645,Student0645,Patel,student0645@example.com,Hyderabad,Telangana,2024-06-23,Diploma,Referral
+646,Student0646,Roy,student0646@example.com,Hyderabad,Maharashtra,2024-02-06,Postgraduate,Instagram
+647,Student0647,Das,student0647@example.com,Pune,Karnataka,2025-05-05,Undergraduate,Google Ads
+648,Student0648,Das,student0648@example.com,Siliguri,Telangana,2024-10-08,Undergraduate,Organic
+649,Student0649,Roy,student0649@example.com,Delhi,Telangana,2025-05-22,Postgraduate,LinkedIn
+650,Student0650,Das,student0650@example.com,Siliguri,Delhi,2025-08-14,Graduate,Referral
+651,Student0651,Patel,student0651@example.com,Kolkata,Maharashtra,2024-02-10,Diploma,Google Ads
+652,Student0652,Singh,student0652@example.com,Siliguri,Telangana,2025-10-20,Diploma,Instagram
+653,Student0653,Patel,student0653@example.com,Mumbai,West Bengal,2025-03-03,Undergraduate,Webinar
+654,Student0654,Patel,student0654@example.com,Pune,West Bengal,2025-10-13,Postgraduate,Google Ads
+655,Student0655,Roy,student0655@example.com,Mumbai,West Bengal,2025-11-22,Undergraduate,Organic
+656,Student0656,Sharma,student0656@example.com,Siliguri,Telangana,2024-11-26,Diploma,Instagram
+657,Student0657,Sharma,student0657@example.com,Delhi,Telangana,2024-08-19,Undergraduate,Referral
+658,Student0658,Das,student0658@example.com,Delhi,West Bengal,2024-08-02,Postgraduate,Referral
+659,Student0659,Singh,student0659@example.com,Delhi,Karnataka,2025-11-19,Postgraduate,Referral
+660,Student0660,Das,student0660@example.com,Siliguri,Karnataka,2024-02-18,Diploma,Instagram
+661,Student0661,Sharma,student0661@example.com,Bengaluru,Karnataka,2025-11-17,Undergraduate,Organic
+662,Student0662,Roy,student0662@example.com,Delhi,Maharashtra,2024-06-22,Diploma,Webinar
+663,Student0663,Patel,student0663@example.com,Siliguri,Karnataka,2024-02-29,Postgraduate,Referral
+664,Student0664,Das,student0664@example.com,Bengaluru,West Bengal,2024-06-28,Undergraduate,Google Ads
+665,Student0665,Patel,student0665@example.com,Hyderabad,West Bengal,2024-09-22,Graduate,Instagram
+666,Student0666,Roy,student0666@example.com,Delhi,Delhi,2025-11-14,Postgraduate,LinkedIn
+667,Student0667,Sharma,student0667@example.com,Hyderabad,Maharashtra,2024-10-03,Graduate,Google Ads
+668,Student0668,Roy,student0668@example.com,Bengaluru,Maharashtra,2024-09-22,Postgraduate,Google Ads
+669,Student0669,Das,student0669@example.com,Delhi,West Bengal,2024-09-12,Graduate,Instagram
+670,Student0670,Das,student0670@example.com,Delhi,Telangana,2024-11-04,Undergraduate,LinkedIn
+671,Student0671,Das,student0671@example.com,Bengaluru,Maharashtra,2024-06-13,Undergraduate,Referral
+672,Student0672,Roy,student0672@example.com,Mumbai,Telangana,2024-12-15,Postgraduate,LinkedIn
+673,Student0673,Roy,student0673@example.com,Mumbai,Karnataka,2025-10-09,Diploma,Google Ads
+674,Student0674,Sharma,student0674@example.com,Kolkata,West Bengal,2025-05-28,Postgraduate,LinkedIn
+675,Student0675,Roy,student0675@example.com,Delhi,Delhi,2025-05-29,Undergraduate,Webinar
+676,Student0676,Das,student0676@example.com,Jaipur,Delhi,2025-07-20,Graduate,Google Ads
+677,Student0677,Sharma,student0677@example.com,Delhi,Delhi,2025-03-21,Graduate,LinkedIn
+678,Student0678,Patel,student0678@example.com,Kolkata,Telangana,2024-12-16,Undergraduate,Google Ads
+679,Student0679,Sharma,student0679@example.com,Jaipur,Telangana,2025-11-28,Graduate,Webinar
+680,Student0680,Sharma,student0680@example.com,Bengaluru,Delhi,2024-11-09,Postgraduate,Webinar
+681,Student0681,Roy,student0681@example.com,Kolkata,Telangana,2025-10-02,Undergraduate,Organic
+682,Student0682,Sharma,student0682@example.com,Bengaluru,West Bengal,2025-03-20,Postgraduate,LinkedIn
+683,Student0683,Singh,student0683@example.com,Hyderabad,Maharashtra,2024-01-13,Postgraduate,Referral
+684,Student0684,Singh,student0684@example.com,Kolkata,Maharashtra,2024-09-20,Diploma,Organic
+685,Student0685,Patel,student0685@example.com,Bengaluru,West Bengal,2025-05-06,Undergraduate,Organic
+686,Student0686,Sharma,student0686@example.com,Hyderabad,West Bengal,2025-09-23,Diploma,Google Ads
+687,Student0687,Roy,student0687@example.com,Hyderabad,Telangana,2024-10-11,Graduate,Instagram
+688,Student0688,Roy,student0688@example.com,Pune,Delhi,2025-05-22,Graduate,Referral
+689,Student0689,Singh,student0689@example.com,Pune,Telangana,2024-04-07,Graduate,Organic
+690,Student0690,Das,student0690@example.com,Hyderabad,West Bengal,2024-12-11,Postgraduate,Organic
+691,Student0691,Roy,student0691@example.com,Siliguri,West Bengal,2024-08-12,Graduate,Google Ads
+692,Student0692,Sharma,student0692@example.com,Bengaluru,Maharashtra,2024-12-26,Diploma,Organic
+693,Student0693,Das,student0693@example.com,Hyderabad,Maharashtra,2025-07-05,Diploma,LinkedIn
+694,Student0694,Das,student0694@example.com,Hyderabad,Telangana,2024-08-14,Undergraduate,LinkedIn
+695,Student0695,Patel,student0695@example.com,Bengaluru,Maharashtra,2024-06-18,Undergraduate,Referral
+696,Student0696,Roy,student0696@example.com,Jaipur,West Bengal,2024-12-08,Undergraduate,Organic
+697,Student0697,Singh,student0697@example.com,Delhi,West Bengal,2024-01-09,Graduate,LinkedIn
+698,Student0698,Das,student0698@example.com,Bengaluru,West Bengal,2025-08-02,Postgraduate,LinkedIn
+699,Student0699,Sharma,student0699@example.com,Kolkata,West Bengal,2024-06-08,Diploma,Webinar
+700,Student0700,Roy,student0700@example.com,Hyderabad,Delhi,2024-08-31,Postgraduate,Instagram
+701,Student0701,Patel,student0701@example.com,Jaipur,Karnataka,2025-02-18,Undergraduate,Webinar
+702,Student0702,Singh,student0702@example.com,Hyderabad,West Bengal,2024-02-29,Postgraduate,Google Ads
+703,Student0703,Das,student0703@example.com,Jaipur,Karnataka,2024-06-11,Undergraduate,Organic
+704,Student0704,Singh,student0704@example.com,Pune,Maharashtra,2025-11-12,Diploma,LinkedIn
+705,Student0705,Sharma,student0705@example.com,Bengaluru,Karnataka,2025-06-03,Diploma,Instagram
+706,Student0706,Singh,student0706@example.com,Jaipur,Karnataka,2025-03-23,Postgraduate,Google Ads
+707,Student0707,Patel,student0707@example.com,Siliguri,West Bengal,2024-09-25,Postgraduate,Instagram
+708,Student0708,Patel,student0708@example.com,Mumbai,Maharashtra,2024-07-27,Graduate,Instagram
+709,Student0709,Singh,student0709@example.com,Mumbai,Maharashtra,2025-07-06,Undergraduate,Google Ads
+710,Student0710,Sharma,student0710@example.com,Bengaluru,Delhi,2025-03-09,Postgraduate,LinkedIn
+711,Student0711,Sharma,student0711@example.com,Mumbai,West Bengal,2025-08-15,Postgraduate,Organic
+712,Student0712,Patel,student0712@example.com,Bengaluru,West Bengal,2024-09-24,Diploma,LinkedIn
+713,Student0713,Singh,student0713@example.com,Delhi,West Bengal,2024-12-28,Diploma,Organic
+714,Student0714,Das,student0714@example.com,Mumbai,Karnataka,2024-01-29,Postgraduate,Referral
+715,Student0715,Roy,student0715@example.com,Kolkata,Maharashtra,2024-01-02,Diploma,Organic
+716,Student0716,Singh,student0716@example.com,Hyderabad,Telangana,2025-06-24,Undergraduate,Organic
+717,Student0717,Sharma,student0717@example.com,Mumbai,Karnataka,2024-11-16,Postgraduate,Google Ads
+718,Student0718,Patel,student0718@example.com,Delhi,Karnataka,2024-11-12,Undergraduate,Organic
+719,Student0719,Patel,student0719@example.com,Hyderabad,Delhi,2025-06-18,Graduate,Instagram
+720,Student0720,Sharma,student0720@example.com,Jaipur,Karnataka,2024-11-17,Graduate,LinkedIn
+721,Student0721,Singh,student0721@example.com,Bengaluru,Karnataka,2025-10-16,Postgraduate,LinkedIn
+722,Student0722,Das,student0722@example.com,Delhi,Delhi,2024-04-27,Undergraduate,Webinar
+723,Student0723,Patel,student0723@example.com,Pune,West Bengal,2025-07-07,Graduate,Webinar
+724,Student0724,Roy,student0724@example.com,Mumbai,Delhi,2025-07-03,Undergraduate,Webinar
+725,Student0725,Patel,student0725@example.com,Mumbai,Maharashtra,2024-09-14,Undergraduate,Webinar
+726,Student0726,Sharma,student0726@example.com,Hyderabad,Maharashtra,2024-04-27,Postgraduate,Google Ads
+727,Student0727,Roy,student0727@example.com,Delhi,Maharashtra,2025-05-31,Postgraduate,Referral
+728,Student0728,Das,student0728@example.com,Bengaluru,Karnataka,2024-08-15,Diploma,Instagram
+729,Student0729,Patel,student0729@example.com,Bengaluru,Delhi,2025-11-20,Undergraduate,Webinar
+730,Student0730,Sharma,student0730@example.com,Siliguri,Telangana,2024-03-08,Graduate,Webinar
+731,Student0731,Singh,student0731@example.com,Mumbai,Karnataka,2024-01-06,Diploma,Organic
+732,Student0732,Singh,student0732@example.com,Delhi,Telangana,2024-04-03,Undergraduate,LinkedIn
+733,Student0733,Singh,student0733@example.com,Bengaluru,Telangana,2025-01-13,Postgraduate,LinkedIn
+734,Student0734,Sharma,student0734@example.com,Pune,Maharashtra,2025-01-10,Diploma,LinkedIn
+735,Student0735,Singh,student0735@example.com,Mumbai,Delhi,2024-01-06,Diploma,Google Ads
+736,Student0736,Patel,student0736@example.com,Delhi,Karnataka,2024-11-23,Graduate,LinkedIn
+737,Student0737,Roy,student0737@example.com,Delhi,Maharashtra,2025-09-19,Postgraduate,Webinar
+738,Student0738,Das,student0738@example.com,Pune,Delhi,2024-12-06,Undergraduate,Webinar
+739,Student0739,Roy,student0739@example.com,Hyderabad,Maharashtra,2025-10-29,Diploma,Google Ads
+740,Student0740,Patel,student0740@example.com,Bengaluru,Delhi,2024-06-17,Diploma,LinkedIn
+741,Student0741,Patel,student0741@example.com,Mumbai,Karnataka,2024-09-10,Diploma,LinkedIn
+742,Student0742,Das,student0742@example.com,Delhi,Delhi,2025-10-30,Postgraduate,Instagram
+743,Student0743,Das,student0743@example.com,Delhi,Telangana,2024-02-05,Diploma,Webinar
+744,Student0744,Sharma,student0744@example.com,Bengaluru,Karnataka,2024-03-23,Undergraduate,Organic
+745,Student0745,Roy,student0745@example.com,Siliguri,West Bengal,2024-10-27,Postgraduate,Referral
+746,Student0746,Patel,student0746@example.com,Pune,Telangana,2025-04-20,Diploma,LinkedIn
+747,Student0747,Roy,student0747@example.com,Jaipur,West Bengal,2025-08-27,Graduate,Organic
+748,Student0748,Das,student0748@example.com,Jaipur,West Bengal,2025-11-07,Undergraduate,Webinar
+749,Student0749,Singh,student0749@example.com,Mumbai,Maharashtra,2024-10-25,Graduate,Google Ads
+750,Student0750,Singh,student0750@example.com,Siliguri,Telangana,2024-01-13,Diploma,LinkedIn
+751,Student0751,Roy,student0751@example.com,Bengaluru,West Bengal,2024-12-22,Diploma,Instagram
+752,Student0752,Singh,student0752@example.com,Mumbai,West Bengal,2025-07-06,Postgraduate,Referral
+753,Student0753,Patel,student0753@example.com,Bengaluru,Maharashtra,2024-10-27,Postgraduate,Webinar
+754,Student0754,Das,student0754@example.com,Pune,Telangana,2024-03-27,Graduate,LinkedIn
+755,Student0755,Das,student0755@example.com,Jaipur,West Bengal,2024-10-20,Postgraduate,Organic
+756,Student0756,Singh,student0756@example.com,Delhi,Maharashtra,2024-08-10,Postgraduate,LinkedIn
+757,Student0757,Patel,student0757@example.com,Hyderabad,West Bengal,2025-05-13,Postgraduate,Organic
+758,Student0758,Sharma,student0758@example.com,Jaipur,Karnataka,2025-07-27,Postgraduate,LinkedIn
+759,Student0759,Sharma,student0759@example.com,Pune,Karnataka,2025-04-24,Diploma,Organic
+760,Student0760,Patel,student0760@example.com,Pune,Delhi,2024-06-01,Undergraduate,Instagram
+761,Student0761,Roy,student0761@example.com,Delhi,Maharashtra,2024-03-29,Postgraduate,Google Ads
+762,Student0762,Singh,student0762@example.com,Mumbai,Maharashtra,2024-02-23,Postgraduate,Google Ads
+763,Student0763,Sharma,student0763@example.com,Bengaluru,Karnataka,2024-04-07,Postgraduate,Referral
+764,Student0764,Roy,student0764@example.com,Pune,Maharashtra,2025-05-31,Undergraduate,Organic
+765,Student0765,Roy,student0765@example.com,Jaipur,Delhi,2025-01-18,Diploma,Google Ads
+766,Student0766,Das,student0766@example.com,Delhi,Maharashtra,2024-01-21,Graduate,Webinar
+767,Student0767,Sharma,student0767@example.com,Kolkata,Karnataka,2024-10-26,Undergraduate,Organic
+768,Student0768,Roy,student0768@example.com,Jaipur,Maharashtra,2024-04-03,Graduate,Google Ads
+769,Student0769,Sharma,student0769@example.com,Kolkata,West Bengal,2024-01-25,Diploma,Instagram
+770,Student0770,Sharma,student0770@example.com,Siliguri,Karnataka,2024-03-17,Diploma,Google Ads
+771,Student0771,Patel,student0771@example.com,Kolkata,West Bengal,2025-11-16,Undergraduate,Google Ads
+772,Student0772,Sharma,student0772@example.com,Delhi,Maharashtra,2025-08-08,Undergraduate,LinkedIn
+773,Student0773,Singh,student0773@example.com,Bengaluru,West Bengal,2025-11-09,Diploma,Webinar
+774,Student0774,Singh,student0774@example.com,Kolkata,Telangana,2024-08-08,Postgraduate,Webinar
+775,Student0775,Sharma,student0775@example.com,Delhi,Telangana,2025-03-20,Undergraduate,Instagram
+776,Student0776,Singh,student0776@example.com,Delhi,Telangana,2025-10-07,Undergraduate,Webinar
+777,Student0777,Singh,student0777@example.com,Kolkata,Delhi,2024-10-28,Diploma,Google Ads
+778,Student0778,Roy,student0778@example.com,Delhi,Maharashtra,2024-11-07,Undergraduate,Instagram
+779,Student0779,Sharma,student0779@example.com,Pune,Karnataka,2024-04-13,Diploma,Organic
+780,Student0780,Patel,student0780@example.com,Hyderabad,Maharashtra,2024-10-13,Postgraduate,Instagram
+781,Student0781,Singh,student0781@example.com,Pune,West Bengal,2025-05-15,Undergraduate,Organic
+782,Student0782,Singh,student0782@example.com,Bengaluru,Karnataka,2025-08-08,Postgraduate,Referral
+783,Student0783,Patel,student0783@example.com,Pune,Telangana,2025-04-16,Postgraduate,LinkedIn
+784,Student0784,Singh,student0784@example.com,Pune,West Bengal,2024-06-03,Postgraduate,Google Ads
+785,Student0785,Patel,student0785@example.com,Bengaluru,Karnataka,2024-01-27,Postgraduate,LinkedIn
+786,Student0786,Singh,student0786@example.com,Mumbai,Delhi,2025-05-30,Undergraduate,Google Ads
+787,Student0787,Sharma,student0787@example.com,Mumbai,West Bengal,2024-08-20,Postgraduate,Instagram
+788,Student0788,Sharma,student0788@example.com,Kolkata,Delhi,2024-12-31,Postgraduate,LinkedIn
+789,Student0789,Singh,student0789@example.com,Jaipur,Karnataka,2025-08-08,Diploma,Referral
+790,Student0790,Singh,student0790@example.com,Pune,Maharashtra,2024-12-17,Undergraduate,Referral
+791,Student0791,Roy,student0791@example.com,Pune,Karnataka,2024-06-24,Diploma,LinkedIn
+792,Student0792,Patel,student0792@example.com,Jaipur,Telangana,2024-03-28,Diploma,Organic
+793,Student0793,Roy,student0793@example.com,Pune,West Bengal,2024-03-09,Postgraduate,Webinar
+794,Student0794,Roy,student0794@example.com,Mumbai,Maharashtra,2025-08-26,Graduate,Referral
+795,Student0795,Singh,student0795@example.com,Jaipur,Maharashtra,2025-05-08,Undergraduate,Instagram
+796,Student0796,Sharma,student0796@example.com,Kolkata,West Bengal,2025-01-28,Graduate,Webinar
+797,Student0797,Roy,student0797@example.com,Jaipur,Karnataka,2024-12-23,Graduate,Instagram
+798,Student0798,Patel,student0798@example.com,Siliguri,West Bengal,2024-04-25,Postgraduate,Referral
+799,Student0799,Patel,student0799@example.com,Mumbai,West Bengal,2025-08-31,Undergraduate,LinkedIn
+800,Student0800,Das,student0800@example.com,Mumbai,West Bengal,2024-04-08,Undergraduate,Referral
+801,Student0801,Singh,student0801@example.com,Hyderabad,Maharashtra,2024-04-21,Diploma,Organic
+802,Student0802,Das,student0802@example.com,Hyderabad,Karnataka,2024-02-18,Postgraduate,Instagram
+803,Student0803,Roy,student0803@example.com,Bengaluru,Maharashtra,2024-07-22,Undergraduate,Organic
+804,Student0804,Singh,student0804@example.com,Delhi,West Bengal,2024-07-09,Postgraduate,Organic
+805,Student0805,Roy,student0805@example.com,Delhi,Maharashtra,2024-05-14,Diploma,Organic
+806,Student0806,Singh,student0806@example.com,Bengaluru,West Bengal,2025-06-14,Diploma,Google Ads
+807,Student0807,Singh,student0807@example.com,Jaipur,Delhi,2024-01-17,Postgraduate,Webinar
+808,Student0808,Singh,student0808@example.com,Delhi,Delhi,2024-11-22,Diploma,LinkedIn
+809,Student0809,Das,student0809@example.com,Delhi,West Bengal,2024-08-29,Diploma,Organic
+810,Student0810,Roy,student0810@example.com,Bengaluru,West Bengal,2024-03-19,Undergraduate,Google Ads
+811,Student0811,Singh,student0811@example.com,Pune,Karnataka,2025-05-16,Undergraduate,Google Ads
+812,Student0812,Das,student0812@example.com,Hyderabad,Karnataka,2025-05-24,Diploma,Webinar
+813,Student0813,Sharma,student0813@example.com,Jaipur,Karnataka,2024-01-30,Undergraduate,Organic
+814,Student0814,Das,student0814@example.com,Kolkata,Delhi,2025-06-29,Undergraduate,Webinar
+815,Student0815,Singh,student0815@example.com,Hyderabad,Delhi,2025-08-10,Undergraduate,Referral
+816,Student0816,Patel,student0816@example.com,Siliguri,Maharashtra,2025-10-20,Graduate,Referral
+817,Student0817,Das,student0817@example.com,Jaipur,Maharashtra,2024-11-22,Diploma,LinkedIn
+818,Student0818,Singh,student0818@example.com,Delhi,Maharashtra,2024-05-05,Postgraduate,Instagram
+819,Student0819,Singh,student0819@example.com,Jaipur,Maharashtra,2025-02-26,Undergraduate,LinkedIn
+820,Student0820,Das,student0820@example.com,Hyderabad,Karnataka,2025-05-01,Postgraduate,Webinar
+821,Student0821,Das,student0821@example.com,Bengaluru,Karnataka,2024-05-14,Postgraduate,Webinar
+822,Student0822,Singh,student0822@example.com,Jaipur,Karnataka,2024-03-06,Graduate,LinkedIn
+823,Student0823,Patel,student0823@example.com,Jaipur,Delhi,2025-08-14,Undergraduate,Instagram
+824,Student0824,Roy,student0824@example.com,Jaipur,Karnataka,2025-01-25,Diploma,LinkedIn
+825,Student0825,Patel,student0825@example.com,Pune,Delhi,2025-03-30,Graduate,Google Ads
+826,Student0826,Singh,student0826@example.com,Jaipur,Delhi,2024-06-22,Graduate,Webinar
+827,Student0827,Roy,student0827@example.com,Delhi,Karnataka,2025-10-12,Undergraduate,Organic
+828,Student0828,Roy,student0828@example.com,Pune,West Bengal,2024-01-09,Diploma,Instagram
+829,Student0829,Sharma,student0829@example.com,Mumbai,Maharashtra,2024-02-23,Undergraduate,Referral
+830,Student0830,Roy,student0830@example.com,Delhi,West Bengal,2025-05-28,Graduate,Organic
+831,Student0831,Das,student0831@example.com,Delhi,Maharashtra,2025-10-08,Graduate,Organic
+832,Student0832,Sharma,student0832@example.com,Mumbai,West Bengal,2025-03-22,Postgraduate,Webinar
+833,Student0833,Patel,student0833@example.com,Hyderabad,Maharashtra,2024-01-08,Postgraduate,Organic
+834,Student0834,Sharma,student0834@example.com,Delhi,Karnataka,2024-04-09,Postgraduate,Instagram
+835,Student0835,Roy,student0835@example.com,Mumbai,West Bengal,2024-11-16,Graduate,Referral
+836,Student0836,Patel,student0836@example.com,Bengaluru,West Bengal,2025-08-22,Diploma,LinkedIn
+837,Student0837,Sharma,student0837@example.com,Delhi,West Bengal,2025-05-24,Diploma,Organic
+838,Student0838,Singh,student0838@example.com,Hyderabad,Karnataka,2025-03-24,Undergraduate,LinkedIn
+839,Student0839,Patel,student0839@example.com,Kolkata,Karnataka,2025-01-12,Graduate,Referral
+840,Student0840,Singh,student0840@example.com,Bengaluru,West Bengal,2025-11-04,Graduate,Google Ads
+841,Student0841,Singh,student0841@example.com,Hyderabad,Delhi,2025-05-01,Graduate,Organic
+842,Student0842,Sharma,student0842@example.com,Siliguri,Delhi,2025-01-07,Diploma,LinkedIn
+843,Student0843,Sharma,student0843@example.com,Hyderabad,Maharashtra,2025-09-14,Postgraduate,LinkedIn
+844,Student0844,Singh,student0844@example.com,Pune,Delhi,2025-07-08,Postgraduate,Webinar
+845,Student0845,Singh,student0845@example.com,Jaipur,Karnataka,2024-01-13,Diploma,LinkedIn
+846,Student0846,Patel,student0846@example.com,Bengaluru,Delhi,2025-07-23,Graduate,Referral
+847,Student0847,Das,student0847@example.com,Pune,Delhi,2024-06-22,Undergraduate,Google Ads
+848,Student0848,Singh,student0848@example.com,Siliguri,West Bengal,2024-09-29,Graduate,Instagram
+849,Student0849,Roy,student0849@example.com,Pune,Karnataka,2024-03-16,Postgraduate,Referral
+850,Student0850,Singh,student0850@example.com,Mumbai,Maharashtra,2024-01-08,Undergraduate,LinkedIn
+851,Student0851,Roy,student0851@example.com,Kolkata,Telangana,2024-04-01,Graduate,Instagram
+852,Student0852,Roy,student0852@example.com,Mumbai,Delhi,2025-07-18,Postgraduate,LinkedIn
+853,Student0853,Patel,student0853@example.com,Hyderabad,Karnataka,2024-03-05,Graduate,Referral
+854,Student0854,Sharma,student0854@example.com,Bengaluru,West Bengal,2025-10-25,Graduate,Webinar
+855,Student0855,Patel,student0855@example.com,Pune,Telangana,2025-05-03,Diploma,Organic
+856,Student0856,Patel,student0856@example.com,Bengaluru,West Bengal,2024-06-18,Graduate,Instagram
+857,Student0857,Sharma,student0857@example.com,Delhi,Delhi,2025-09-28,Diploma,Referral
+858,Student0858,Singh,student0858@example.com,Mumbai,Maharashtra,2025-04-14,Graduate,Referral
+859,Student0859,Das,student0859@example.com,Hyderabad,Maharashtra,2024-01-29,Diploma,Instagram
+860,Student0860,Patel,student0860@example.com,Jaipur,Telangana,2024-05-08,Graduate,Organic
+861,Student0861,Patel,student0861@example.com,Delhi,Maharashtra,2025-01-01,Diploma,Google Ads
+862,Student0862,Das,student0862@example.com,Pune,Delhi,2025-04-06,Undergraduate,Instagram
+863,Student0863,Das,student0863@example.com,Pune,Delhi,2024-11-06,Diploma,Google Ads
+864,Student0864,Patel,student0864@example.com,Mumbai,Karnataka,2024-03-09,Graduate,Organic
+865,Student0865,Roy,student0865@example.com,Mumbai,Delhi,2024-07-04,Graduate,Referral
+866,Student0866,Das,student0866@example.com,Hyderabad,Karnataka,2024-05-05,Undergraduate,Instagram
+867,Student0867,Singh,student0867@example.com,Delhi,Karnataka,2024-09-23,Diploma,Organic
+868,Student0868,Patel,student0868@example.com,Bengaluru,West Bengal,2024-07-26,Diploma,Organic
+869,Student0869,Das,student0869@example.com,Bengaluru,West Bengal,2025-07-02,Postgraduate,LinkedIn
+870,Student0870,Patel,student0870@example.com,Delhi,Karnataka,2024-11-20,Undergraduate,Webinar
+871,Student0871,Sharma,student0871@example.com,Jaipur,Telangana,2024-04-02,Postgraduate,Instagram
+872,Student0872,Sharma,student0872@example.com,Delhi,Maharashtra,2025-09-28,Diploma,Referral
+873,Student0873,Singh,student0873@example.com,Pune,Telangana,2025-03-25,Postgraduate,Instagram
+874,Student0874,Das,student0874@example.com,Mumbai,Maharashtra,2024-12-16,Graduate,Referral
+875,Student0875,Das,student0875@example.com,Kolkata,Telangana,2025-11-16,Undergraduate,Instagram
+876,Student0876,Singh,student0876@example.com,Siliguri,West Bengal,2025-06-02,Undergraduate,Webinar
+877,Student0877,Singh,student0877@example.com,Kolkata,Maharashtra,2025-01-08,Postgraduate,LinkedIn
+878,Student0878,Roy,student0878@example.com,Jaipur,West Bengal,2025-01-03,Undergraduate,Organic
+879,Student0879,Singh,student0879@example.com,Bengaluru,Maharashtra,2024-06-05,Undergraduate,Google Ads
+880,Student0880,Sharma,student0880@example.com,Pune,West Bengal,2024-04-23,Undergraduate,Google Ads
+881,Student0881,Roy,student0881@example.com,Kolkata,Delhi,2025-08-27,Postgraduate,Organic
+882,Student0882,Roy,student0882@example.com,Delhi,Telangana,2025-10-08,Postgraduate,LinkedIn
+883,Student0883,Singh,student0883@example.com,Jaipur,Maharashtra,2025-03-22,Diploma,Webinar
+884,Student0884,Roy,student0884@example.com,Jaipur,Telangana,2025-05-26,Graduate,Organic
+885,Student0885,Roy,student0885@example.com,Pune,Delhi,2024-05-19,Graduate,Referral
+886,Student0886,Singh,student0886@example.com,Pune,Karnataka,2024-02-09,Undergraduate,Google Ads
+887,Student0887,Patel,student0887@example.com,Bengaluru,Telangana,2025-10-14,Graduate,Google Ads
+888,Student0888,Patel,student0888@example.com,Hyderabad,Telangana,2025-10-19,Graduate,Google Ads
+889,Student0889,Patel,student0889@example.com,Mumbai,Karnataka,2025-07-22,Undergraduate,Referral
+890,Student0890,Patel,student0890@example.com,Delhi,Delhi,2025-04-09,Undergraduate,Instagram
+891,Student0891,Sharma,student0891@example.com,Kolkata,Karnataka,2025-05-07,Graduate,Webinar
+892,Student0892,Das,student0892@example.com,Siliguri,Delhi,2024-02-13,Graduate,Webinar
+893,Student0893,Das,student0893@example.com,Siliguri,Maharashtra,2024-08-29,Graduate,Google Ads
+894,Student0894,Roy,student0894@example.com,Mumbai,Karnataka,2025-11-15,Graduate,Instagram
+895,Student0895,Sharma,student0895@example.com,Bengaluru,Karnataka,2025-02-05,Graduate,Google Ads
+896,Student0896,Roy,student0896@example.com,Mumbai,Delhi,2024-07-30,Diploma,Webinar
+897,Student0897,Singh,student0897@example.com,Bengaluru,Maharashtra,2024-10-16,Undergraduate,Referral
+898,Student0898,Singh,student0898@example.com,Kolkata,Telangana,2025-05-29,Undergraduate,Referral
+899,Student0899,Patel,student0899@example.com,Jaipur,Delhi,2024-06-16,Graduate,Webinar
+900,Student0900,Sharma,student0900@example.com,Mumbai,Telangana,2025-11-13,Diploma,Organic
+901,Student0901,Das,student0901@example.com,Hyderabad,West Bengal,2025-01-12,Diploma,LinkedIn
+902,Student0902,Sharma,student0902@example.com,Hyderabad,Maharashtra,2024-05-01,Undergraduate,Organic
+903,Student0903,Patel,student0903@example.com,Delhi,West Bengal,2025-04-17,Graduate,LinkedIn
+904,Student0904,Patel,student0904@example.com,Siliguri,Delhi,2025-01-01,Graduate,Instagram
+905,Student0905,Das,student0905@example.com,Delhi,Maharashtra,2024-02-05,Postgraduate,Google Ads
+906,Student0906,Patel,student0906@example.com,Pune,West Bengal,2025-07-17,Graduate,Webinar
+907,Student0907,Singh,student0907@example.com,Delhi,Telangana,2024-12-13,Undergraduate,Instagram
+908,Student0908,Das,student0908@example.com,Delhi,West Bengal,2025-05-21,Graduate,Webinar
+909,Student0909,Sharma,student0909@example.com,Hyderabad,Delhi,2025-05-23,Undergraduate,Google Ads
+910,Student0910,Singh,student0910@example.com,Pune,Telangana,2025-01-13,Undergraduate,Referral
+911,Student0911,Das,student0911@example.com,Delhi,Maharashtra,2024-11-13,Undergraduate,Google Ads
+912,Student0912,Singh,student0912@example.com,Delhi,Maharashtra,2025-06-05,Postgraduate,Google Ads
+913,Student0913,Singh,student0913@example.com,Mumbai,Delhi,2025-01-02,Graduate,Google Ads
+914,Student0914,Sharma,student0914@example.com,Pune,Delhi,2025-05-26,Graduate,LinkedIn
+915,Student0915,Patel,student0915@example.com,Hyderabad,West Bengal,2024-02-09,Postgraduate,Organic
+916,Student0916,Roy,student0916@example.com,Siliguri,Karnataka,2024-03-22,Graduate,Google Ads
+917,Student0917,Singh,student0917@example.com,Siliguri,Delhi,2025-08-01,Diploma,Webinar
+918,Student0918,Sharma,student0918@example.com,Siliguri,Delhi,2025-11-28,Undergraduate,Organic
+919,Student0919,Singh,student0919@example.com,Bengaluru,West Bengal,2024-04-04,Undergraduate,Organic
+920,Student0920,Das,student0920@example.com,Hyderabad,Maharashtra,2024-03-27,Postgraduate,Google Ads
+921,Student0921,Das,student0921@example.com,Pune,West Bengal,2024-10-09,Postgraduate,Google Ads
+922,Student0922,Roy,student0922@example.com,Pune,Karnataka,2025-08-09,Undergraduate,Google Ads
+923,Student0923,Sharma,student0923@example.com,Pune,Maharashtra,2024-02-12,Diploma,Instagram
+924,Student0924,Roy,student0924@example.com,Mumbai,Maharashtra,2025-03-07,Undergraduate,Webinar
+925,Student0925,Roy,student0925@example.com,Pune,West Bengal,2025-07-18,Graduate,Google Ads
+926,Student0926,Sharma,student0926@example.com,Jaipur,Maharashtra,2024-11-23,Postgraduate,Instagram
+927,Student0927,Roy,student0927@example.com,Delhi,Maharashtra,2024-08-18,Diploma,Referral
+928,Student0928,Das,student0928@example.com,Bengaluru,Delhi,2024-04-07,Graduate,Webinar
+929,Student0929,Sharma,student0929@example.com,Delhi,Karnataka,2024-01-26,Graduate,Referral
+930,Student0930,Sharma,student0930@example.com,Mumbai,Telangana,2025-11-05,Undergraduate,Webinar
+931,Student0931,Das,student0931@example.com,Bengaluru,Maharashtra,2025-04-08,Diploma,Referral
+932,Student0932,Das,student0932@example.com,Jaipur,Delhi,2025-01-19,Graduate,Instagram
+933,Student0933,Das,student0933@example.com,Hyderabad,Maharashtra,2024-05-09,Postgraduate,Referral
+934,Student0934,Singh,student0934@example.com,Kolkata,Maharashtra,2025-06-17,Postgraduate,Webinar
+935,Student0935,Das,student0935@example.com,Delhi,Maharashtra,2024-02-24,Postgraduate,Referral
+936,Student0936,Sharma,student0936@example.com,Bengaluru,West Bengal,2024-05-04,Postgraduate,Google Ads
+937,Student0937,Sharma,student0937@example.com,Kolkata,Karnataka,2024-12-03,Undergraduate,LinkedIn
+938,Student0938,Patel,student0938@example.com,Mumbai,Maharashtra,2024-06-06,Postgraduate,Referral
+939,Student0939,Patel,student0939@example.com,Pune,West Bengal,2025-07-13,Postgraduate,Instagram
+940,Student0940,Roy,student0940@example.com,Siliguri,West Bengal,2024-05-15,Undergraduate,Instagram
+941,Student0941,Patel,student0941@example.com,Jaipur,Telangana,2025-10-03,Graduate,Google Ads
+942,Student0942,Roy,student0942@example.com,Hyderabad,Maharashtra,2025-04-06,Diploma,Organic
+943,Student0943,Roy,student0943@example.com,Bengaluru,Karnataka,2024-01-01,Graduate,Instagram
+944,Student0944,Singh,student0944@example.com,Delhi,Maharashtra,2024-02-05,Graduate,Organic
+945,Student0945,Das,student0945@example.com,Siliguri,West Bengal,2025-11-22,Diploma,LinkedIn
+946,Student0946,Patel,student0946@example.com,Jaipur,Delhi,2024-03-30,Postgraduate,Organic
+947,Student0947,Patel,student0947@example.com,Bengaluru,Maharashtra,2024-07-27,Postgraduate,Instagram
+948,Student0948,Singh,student0948@example.com,Pune,Maharashtra,2024-08-23,Graduate,Referral
+949,Student0949,Singh,student0949@example.com,Siliguri,Telangana,2024-05-06,Diploma,Instagram
+950,Student0950,Singh,student0950@example.com,Kolkata,West Bengal,2024-04-08,Undergraduate,Webinar
+951,Student0951,Singh,student0951@example.com,Bengaluru,Maharashtra,2025-10-02,Undergraduate,Organic
+952,Student0952,Das,student0952@example.com,Kolkata,Telangana,2025-01-28,Graduate,Webinar
+953,Student0953,Patel,student0953@example.com,Jaipur,Delhi,2024-04-05,Postgraduate,LinkedIn
+954,Student0954,Sharma,student0954@example.com,Bengaluru,Delhi,2025-02-15,Undergraduate,Instagram
+955,Student0955,Roy,student0955@example.com,Mumbai,Karnataka,2024-03-06,Undergraduate,Google Ads
+956,Student0956,Patel,student0956@example.com,Bengaluru,Delhi,2025-03-08,Diploma,Google Ads
+957,Student0957,Patel,student0957@example.com,Siliguri,Maharashtra,2025-06-29,Postgraduate,Google Ads
+958,Student0958,Das,student0958@example.com,Mumbai,West Bengal,2025-01-30,Diploma,LinkedIn
+959,Student0959,Roy,student0959@example.com,Jaipur,Karnataka,2025-02-21,Graduate,Organic
+960,Student0960,Das,student0960@example.com,Jaipur,Delhi,2025-08-03,Diploma,Organic
+961,Student0961,Patel,student0961@example.com,Siliguri,Karnataka,2025-05-23,Undergraduate,Webinar
+962,Student0962,Sharma,student0962@example.com,Hyderabad,West Bengal,2025-11-24,Diploma,Organic
+963,Student0963,Sharma,student0963@example.com,Siliguri,Maharashtra,2024-10-03,Graduate,Webinar
+964,Student0964,Sharma,student0964@example.com,Delhi,Delhi,2024-09-09,Undergraduate,LinkedIn
+965,Student0965,Singh,student0965@example.com,Pune,Delhi,2025-11-24,Diploma,Webinar
+966,Student0966,Sharma,student0966@example.com,Kolkata,West Bengal,2024-12-25,Diploma,Organic
+967,Student0967,Patel,student0967@example.com,Pune,Delhi,2024-01-07,Undergraduate,Webinar
+968,Student0968,Sharma,student0968@example.com,Delhi,Maharashtra,2024-04-25,Graduate,Instagram
+969,Student0969,Sharma,student0969@example.com,Jaipur,Telangana,2024-03-02,Graduate,Instagram
+970,Student0970,Roy,student0970@example.com,Mumbai,Telangana,2024-10-03,Diploma,Referral
+971,Student0971,Roy,student0971@example.com,Delhi,Telangana,2024-09-21,Postgraduate,Google Ads
+972,Student0972,Roy,student0972@example.com,Delhi,West Bengal,2025-05-04,Postgraduate,Referral
+973,Student0973,Singh,student0973@example.com,Bengaluru,West Bengal,2024-05-30,Diploma,LinkedIn
+974,Student0974,Singh,student0974@example.com,Hyderabad,Delhi,2025-06-02,Undergraduate,Instagram
+975,Student0975,Roy,student0975@example.com,Bengaluru,West Bengal,2025-03-11,Graduate,Webinar
+976,Student0976,Singh,student0976@example.com,Jaipur,West Bengal,2025-06-15,Graduate,Organic
+977,Student0977,Singh,student0977@example.com,Jaipur,Delhi,2024-04-21,Graduate,Webinar
+978,Student0978,Roy,student0978@example.com,Delhi,West Bengal,2025-01-17,Postgraduate,Referral
+979,Student0979,Singh,student0979@example.com,Pune,West Bengal,2025-05-25,Graduate,Webinar
+980,Student0980,Patel,student0980@example.com,Kolkata,Telangana,2024-11-16,Undergraduate,Google Ads
+981,Student0981,Sharma,student0981@example.com,Pune,West Bengal,2024-01-07,Graduate,Google Ads
+982,Student0982,Sharma,student0982@example.com,Bengaluru,Telangana,2024-10-05,Graduate,LinkedIn
+983,Student0983,Das,student0983@example.com,Hyderabad,Delhi,2024-01-18,Graduate,LinkedIn
+984,Student0984,Sharma,student0984@example.com,Delhi,Maharashtra,2024-09-03,Postgraduate,Referral
+985,Student0985,Roy,student0985@example.com,Kolkata,West Bengal,2025-08-04,Graduate,LinkedIn
+986,Student0986,Singh,student0986@example.com,Pune,Telangana,2024-12-11,Undergraduate,Instagram
+987,Student0987,Patel,student0987@example.com,Jaipur,Karnataka,2024-07-07,Graduate,Referral
+988,Student0988,Roy,student0988@example.com,Siliguri,West Bengal,2025-03-30,Graduate,Google Ads
+989,Student0989,Patel,student0989@example.com,Kolkata,Telangana,2024-08-03,Postgraduate,Organic
+990,Student0990,Patel,student0990@example.com,Mumbai,West Bengal,2024-04-03,Undergraduate,Organic
+991,Student0991,Roy,student0991@example.com,Mumbai,Karnataka,2025-04-24,Graduate,Organic
+992,Student0992,Patel,student0992@example.com,Delhi,Maharashtra,2024-08-08,Postgraduate,Instagram
+993,Student0993,Patel,student0993@example.com,Pune,Telangana,2025-11-06,Diploma,Referral
+994,Student0994,Roy,student0994@example.com,Hyderabad,Karnataka,2024-08-10,Graduate,Referral
+995,Student0995,Singh,student0995@example.com,Hyderabad,Karnataka,2025-06-07,Undergraduate,Instagram
+996,Student0996,Sharma,student0996@example.com,Hyderabad,Maharashtra,2024-01-23,Postgraduate,Organic
+997,Student0997,Singh,student0997@example.com,Pune,West Bengal,2024-05-10,Graduate,Referral
+998,Student0998,Patel,student0998@example.com,Pune,Maharashtra,2024-05-11,Postgraduate,Referral
+999,Student0999,Das,student0999@example.com,Bengaluru,Telangana,2024-12-23,Undergraduate,Webinar
+1000,Student1000,Das,student1000@example.com,Delhi,Telangana,2024-05-22,Diploma,Webinar

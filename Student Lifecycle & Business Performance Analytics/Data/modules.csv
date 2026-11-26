@@ -1,0 +1,49 @@
+module_id,course_id,module_name,sequence_no,difficulty
+1,1,Data Analytics Module 1,1,Intermediate
+2,1,Data Analytics Module 2,2,Beginner
+3,1,Data Analytics Module 3,3,Beginner
+4,1,Data Analytics Module 4,4,Beginner
+5,1,Data Analytics Module 5,5,Advanced
+6,1,Data Analytics Module 6,6,Beginner
+7,1,Data Analytics Module 7,7,Advanced
+8,1,Data Analytics Module 8,8,Intermediate
+9,2,Full Stack Development Module 1,1,Intermediate
+10,2,Full Stack Development Module 2,2,Beginner
+11,2,Full Stack Development Module 3,3,Beginner
+12,2,Full Stack Development Module 4,4,Advanced
+13,2,Full Stack Development Module 5,5,Beginner
+14,2,Full Stack Development Module 6,6,Advanced
+15,2,Full Stack Development Module 7,7,Intermediate
+16,2,Full Stack Development Module 8,8,Beginner
+17,3,Data Science and AI Module 1,1,Beginner
+18,3,Data Science and AI Module 2,2,Advanced
+19,3,Data Science and AI Module 3,3,Intermediate
+20,3,Data Science and AI Module 4,4,Intermediate
+21,3,Data Science and AI Module 5,5,Beginner
+22,3,Data Science and AI Module 6,6,Advanced
+23,3,Data Science and AI Module 7,7,Intermediate
+24,3,Data Science and AI Module 8,8,Advanced
+25,4,Digital Marketing Module 1,1,Beginner
+26,4,Digital Marketing Module 2,2,Intermediate
+27,4,Digital Marketing Module 3,3,Beginner
+28,4,Digital Marketing Module 4,4,Advanced
+29,4,Digital Marketing Module 5,5,Advanced
+30,4,Digital Marketing Module 6,6,Intermediate
+31,4,Digital Marketing Module 7,7,Beginner
+32,4,Digital Marketing Module 8,8,Beginner
+33,5,Product Management Module 1,1,Beginner
+34,5,Product Management Module 2,2,Intermediate
+35,5,Product Management Module 3,3,Beginner
+36,5,Product Management Module 4,4,Beginner
+37,5,Product Management Module 5,5,Intermediate
+38,5,Product Management Module 6,6,Advanced
+39,5,Product Management Module 7,7,Intermediate
+40,5,Product Management Module 8,8,Beginner
+41,6,UI UX Design Module 1,1,Advanced
+42,6,UI UX Design Module 2,2,Intermediate
+43,6,UI UX Design Module 3,3,Advanced
+44,6,UI UX Design Module 4,4,Advanced
+45,6,UI UX Design Module 5,5,Advanced
+46,6,UI UX Design Module 6,6,Advanced
+47,6,UI UX Design Module 7,7,Advanced
+48,6,UI UX Design Module 8,8,Intermediate
